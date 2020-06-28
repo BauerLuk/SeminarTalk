@@ -1,0 +1,538 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="de" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Stellarator – Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"c4ca29d1-a716-4df1-b9c6-f2306768165e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Stellarator","wgTitle":"Stellarator","wgCurRevisionId":201237329,"wgRevisionId":201237329,"wgArticleId":134441,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2019-05","Wikipedia:geplantes Vorhaben ohne Zeitziel","Reaktortyp","Fusionsreaktortechnik"],"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgRelevantPageName":"Stellarator","wgRelevantArticleId":134441,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":201237329,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1360597","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready",
+"oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.math.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"de"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=de&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.37"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b3/W7X-Spulen_Plasma_blau_gelb.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="/w/index.php?title=Stellarator&amp;action=edit"/>
+<link rel="edit" title="Seite bearbeiten" href="/w/index.php?title=Stellarator&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (de)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//de.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikipedia“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom"/>
+<link rel="canonical" href="https://de.wikipedia.org/wiki/Stellarator"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns mw-hide-empty-elt ns-0 ns-subject mw-editable page-Stellarator rootpage-Stellarator skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="de">Stellarator</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">aus Wikipedia, der freien Enzyklopädie</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Zur Navigation springen</a>
+		<a class="mw-jump-link" href="#p-search">Zur Suche springen</a>
+		<div id="mw-content-text" lang="de" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:362px;"><a href="/wiki/Datei:W7X-Spulen_Plasma_blau_gelb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/W7X-Spulen_Plasma_blau_gelb.jpg/360px-W7X-Spulen_Plasma_blau_gelb.jpg" decoding="async" width="360" height="224" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/b/b3/W7X-Spulen_Plasma_blau_gelb.jpg 1.5x" data-file-width="540" data-file-height="336" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:W7X-Spulen_Plasma_blau_gelb.jpg" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a></div>Beispiel eines Stellarator-Designs (für das <a href="/wiki/Wendelstein_7-X" title="Wendelstein 7-X">Wendelstein 7-X</a>-Experiment): Ein System von Spulen (blau) umschließt Plasma (gelb). Eine magnetische Feldlinie ist in grün auf der gelben Plasmaoberfläche dargestellt.</div></div></div>
+<p>Ein <b>Stellarator</b> ist eine <a href="/wiki/Torus" title="Torus">torusförmige</a> Anlage zum <a href="/wiki/Fusion_mittels_magnetischen_Einschlusses" title="Fusion mittels magnetischen Einschlusses">magnetischen Einschluss</a> eines heißen <a href="/wiki/Plasma_(Physik)" title="Plasma (Physik)">Plasmas</a> mit dem Ziel der Energiegewinnung durch <a href="/wiki/Kernfusion" title="Kernfusion">Kernfusion</a> (siehe <a href="/wiki/Fusion_mittels_magnetischen_Einschlusses" title="Fusion mittels magnetischen Einschlusses">Fusion mittels magnetischen Einschlusses</a> und <a href="/wiki/Kernfusionsreaktor" title="Kernfusionsreaktor">Kernfusionsreaktor</a>). Der Name dieses Fusionskonzeptes soll an die Kernfusion als Energiequelle der Sterne (<span style="font-style:normal;font-weight:normal"><a href="/wiki/Latein" title="Latein">lateinisch</a></span> <span lang="la-Latn" style="font-style:italic">stella</span> „Stern“) erinnern. 
+</p><p>Ein rein toroidales <a href="/wiki/Magnetfeld" class="mw-redirect" title="Magnetfeld">Magnetfeld</a> kann geladene Teilchen nicht vollständig einschließen. Der Stellarator löst dieses Problem durch eine komplexe, nicht rotationssymmetrische Magnetfeldgeometrie. Im alternativen Konzept des <a href="/wiki/Tokamak" title="Tokamak">Tokamaks</a> wird der vollständige Einschluss durch einen im Fusions<a href="/wiki/Plasma_(Physik)" title="Plasma (Physik)">plasma</a> fließenden elektrischen Strom erreicht.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="de" dir="ltr"><h2 id="mw-toc-heading">Inhaltsverzeichnis</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Theoretische_Grundlagen_und_Abgrenzung_zum_Tokamak"><span class="tocnumber">1</span> <span class="toctext">Theoretische Grundlagen und Abgrenzung zum Tokamak</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Magnetischer_Einschluss"><span class="tocnumber">1.1</span> <span class="toctext">Magnetischer Einschluss</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Stellarator"><span class="tocnumber">1.2</span> <span class="toctext">Stellarator</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Geschichte"><span class="tocnumber">2</span> <span class="toctext">Geschichte</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Stellarator-Typen"><span class="tocnumber">3</span> <span class="toctext">Stellarator-Typen</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Klassischer_Stellarator"><span class="tocnumber">3.1</span> <span class="toctext">Klassischer Stellarator</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Heliotron,_Torsatron"><span class="tocnumber">3.2</span> <span class="toctext">Heliotron, Torsatron</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Heliac"><span class="tocnumber">3.3</span> <span class="toctext">Heliac</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Stellarator_mit_modularen_Spulen"><span class="tocnumber">3.4</span> <span class="toctext">Stellarator mit modularen Spulen</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Optimierter_Stellarator"><span class="tocnumber">3.5</span> <span class="toctext">Optimierter Stellarator</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Stand_der_Stellaratorentwicklung"><span class="tocnumber">4</span> <span class="toctext">Stand der Stellaratorentwicklung</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Stellarator-Reaktorkonzepte"><span class="tocnumber">5</span> <span class="toctext">Stellarator-Reaktorkonzepte</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Heliotron-Reaktor"><span class="tocnumber">5.1</span> <span class="toctext">Heliotron-Reaktor</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Reaktoren_mit_modularen_Spulen"><span class="tocnumber">5.2</span> <span class="toctext">Reaktoren mit modularen Spulen</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#ARIES-Studie"><span class="tocnumber">5.2.1</span> <span class="toctext">ARIES-Studie</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#HELIAS-Reaktor"><span class="tocnumber">5.2.2</span> <span class="toctext">HELIAS-Reaktor</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Literatur"><span class="tocnumber">6</span> <span class="toctext">Literatur</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Einzelnachweise"><span class="tocnumber">7</span> <span class="toctext">Einzelnachweise</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Weblinks"><span class="tocnumber">8</span> <span class="toctext">Weblinks</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Theoretische_Grundlagen_und_Abgrenzung_zum_Tokamak">Theoretische Grundlagen und Abgrenzung zum Tokamak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Theoretische Grundlagen und Abgrenzung zum Tokamak">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=1" title="Abschnitt bearbeiten: Theoretische Grundlagen und Abgrenzung zum Tokamak">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Magnetischer_Einschluss">Magnetischer Einschluss</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Magnetischer Einschluss">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=2" title="Abschnitt bearbeiten: Magnetischer Einschluss">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hauptartikel" role="navigation"><span class="hauptartikel-pfeil" title="siehe" aria-hidden="true" role="presentation">→ </span><i><span class="hauptartikel-text">Hauptartikel</span>: <a href="/wiki/Fusion_mittels_magnetischen_Einschlusses" title="Fusion mittels magnetischen Einschlusses">Fusion mittels magnetischen Einschlusses</a></i></div>
+<p>Ein <a href="/wiki/Magnetfeld" class="mw-redirect" title="Magnetfeld">Magnetfeld</a> kann geladene Teilchen in zunächst zwei Richtungen einschließen, indem es sie auf schraublinienförmige (helikale) Flugbahnen um die Magnetfeldlinien zwingt (<a href="/wiki/Larmor-Radius" title="Larmor-Radius">Gyration</a>) und sie sich nur noch entlang der Feldrichtung frei bewegen können. Zum dreidimensionalen Einschluss wird das Feld zu einem Torus gebogen, in dem alle Feldlinien kreisförmig geschlossen sind. Dabei wird das Magnetfeld allerdings unvermeidlich zum Zentrum hin stärker als am Rand. Dieser Feld<a href="/wiki/Gradient" title="Gradient">gradient</a> treibt die Teilchen senkrecht zur Magnetfeldrichtung aus dem Torus hinaus (Torusdrift). Deshalb muss das Magnetfeld zusätzlich verdrillt werden, so dass die Teilchen auf ihrem Kurs entlang einer Feldline nicht dauerhaft in eine Richtung driften, sondern die Drifts an unterschiedlichen Orten einander ausgleichen.
+</p>
+<h3><span class="mw-headline" id="Stellarator">Stellarator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Stellarator">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=3" title="Abschnitt bearbeiten: Stellarator">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Beim Stellarator wird, anders als beim Tokamak, das verdrillte Magnetfeld vollständig von äußeren stromdurchflossenen <a href="/wiki/Spule_(Elektrotechnik)" title="Spule (Elektrotechnik)">Spulen</a> erzeugt. Es kann theoretisch gezeigt werden, dass ein Stellarator nicht kontinuierlich rotationssymmetrisch sein kann, also bei einer beliebigen Drehung in <a href="/wiki/Torus" title="Torus">toroidaler Richtung</a> in sich selbst übergeht. Das erste Stellaratorkonzept hatte die Form einer liegenden 8, wo zwei Abschnitte entgegengesetzter Krümmungen existieren, deren Drifts sich ausgleichen sollten.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> In modernen Stellaratoren besteht das Stellaratorfeld aus einer Anzahl <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle P}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;" alt="P"/></span> gleicher Abschnitte, den <i>Feldperioden</i>, z.&#160;B. fünf im <a href="/wiki/Wendelstein_7-X" title="Wendelstein 7-X">Wendelstein 7-X</a>, zehn im <a href="/wiki/Large_Helical_Device" title="Large Helical Device">Large Helical Device</a> (LHD), und besitzt somit eine <i>diskrete</i> <a href="/wiki/Symmetrie_(Geometrie)" title="Symmetrie (Geometrie)">Symmetrie</a>: Nur bei Drehung um den Winkel 360°/<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle P}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;" alt="P"/></span> in toroidaler Richtung geht die Konfiguration in sich selbst über. Als zweite Symmetrie kann noch die sogenannte Stellaratorsymmetrie vorliegen: Bei dieser geht eine Feldperiode in sich über, wenn sie um eine spezielle Achse um 180° gedreht wird.
+</p><p>Wegen der nicht kontinuierlichen Symmetrie kann es – anders als beim Tokamak – vorkommen, dass die magnetischen Feldlinien nicht mehr überall auf ineinander verschachtelten Flächen verlaufen, sondern sich stellenweise <a href="/wiki/Chaostheorie" class="mw-redirect" title="Chaostheorie">chaotisch</a> verhalten. Da sich dies negativ auf den Einschluss des Plasmas auswirkt, müssen diese Gebiete (<a href="/w/index.php?title=Ergodische_Bereiche&amp;action=edit&amp;redlink=1" class="new" title="Ergodische Bereiche (Seite nicht vorhanden)">ergodische Bereiche</a> und <a href="/w/index.php?title=Magnetische_Inseln&amp;action=edit&amp;redlink=1" class="new" title="Magnetische Inseln (Seite nicht vorhanden)">magnetische Inseln</a>) möglichst klein sein.
+</p><p>Der Stellarator hat gegenüber dem Tokamak-Konzept zwei wesentliche Vorteile: Da kein <a href="/wiki/Torus" title="Torus">toroidaler</a> Strom im Plasma aufrechterhalten werden muss,
+</p>
+<ul><li>werden mit dem Plasmastrom zusammenhängende Instabilitäten vermieden, die zu einem Zusammenbruch des Plasmaeinschlusses führen können;</li>
+<li>könnte ein Stellarator später als <a href="/wiki/Kraftwerk#Grundlastkraftwerk" title="Kraftwerk">Kraftwerk</a> grundsätzlich im Dauerbetrieb arbeiten. Beim Tokamak-Konzept ist dagegen die Frage, wie ein Strom im Plasma dauerhaft aufrechterhalten werden kann, noch Gegenstand aktueller Forschung.</li></ul>
+<p>Diesen Vorteilen steht gegenüber, dass die dreidimensionale Struktur des Plasmas dessen Einschluss im heißen Zustand grundsätzlich erschwert, so dass eine Optimierung der Magnetfeldgeometrie notwendig wird. Auch ist das Spulensystem eines Stellarators komplexer als das eines Tokamaks. Tokamak und Stellarator haben sonst viele ähnliche Komponenten; auch die technischen Anforderungen sind weitgehend ähnlich.
+</p>
+<h2><span class="mw-headline" id="Geschichte">Geschichte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Geschichte">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=4" title="Abschnitt bearbeiten: Geschichte">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Datei:DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg/220px-DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg" decoding="async" width="220" height="187" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg/330px-DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg/440px-DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg 2x" data-file-width="2944" data-file-height="2508" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:DMM_1988-643_Fusionsexperiment_Wendelstein-IIa.jpg" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a></div>„Wendelstein-IIa“; die Tokamak-artigen toroidalen Spulen sind gut zu erkennen, die helikalen Spulen dieses klassischen Stellarators sind dahinter weitgehend verborgen.</div></div></div><p>Das Konzept des Stellarators wurde 1951 von <a href="/wiki/Lyman_Spitzer" title="Lyman Spitzer">Lyman Spitzer</a> in Princeton, USA entwickelt, der zunächst eine Konfiguration vorschlug, bei der ein Torus zur Form einer Ziffer 8 gebogen wurde. Die experimentellen Ergebnisse auch des Nachfolgers, des „rennbahn-förmigen“ Model-C, zeigten nur ungenügenden Plasma-Einschluss. Die vor dem Hintergrund des Kalten Krieges als geheim klassifizierten Experimente trugen den Namen Projekt Matterhorn. Daher bekamen die nach der Veröffentlichung 1958 in Garching bei München fortgeführten Arbeiten den Namen des bayrischen Berges  <a href="/wiki/Wendelstein_(Berg)" title="Wendelstein (Berg)">Wendelstein</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>In Grundsatzexperimenten ließ sich zeigen, dass Ungenauigkeiten beim Bau der Spulen und die geringe Symmetrie der ersten Anordnungen Grund für deren schlechten Einschluss waren. Es wurden daher symmetrischere kreisförmige Konfigurationen entwickelt (als Größenmaßstab ist im Folgenden jeweils der große Radius R des Plasmas im <a href="/wiki/Torus" title="Torus">Torus</a> mit angegeben): der klassische Stellarator Wendelstein 7-A (Garching, 1976–85, R=2&#160;m), das Heliotron-E, Kyoto (R=2,2&#160;m), die Torsatrons, Advanced Toroidal Facility ATF (1988, Oak Ridge, USA, R=2&#160;m) und Uragan (Charkow, Ukraine).
+</p><p>Mit der Verfügbarkeit von Heizmethoden, die unabhängig von einem im Plasma getriebenen Strom waren, ließen sich auch erstmals im Gegensatz zu einem Tokamak stromlose „reine“ Stellaratorplasmen untersuchen. Dadurch konnte erwartungsgemäß eine ganze Klasse von (stromgetriebenen) Instabilitäten vermieden werden, ebenso der plötzliche Verlust des Einschlusses durch Stromabbruch. Der Plasma-Einschluss dieser ersten Stellaratorgeneration entsprach bei den damals erreichbaren Temperaturen etwa dem von Tokamaks vergleichbarer Größe.
+Es stellte sich aber heraus, dass die mit steigender Temperatur stark ansteigenden Teilchenverluste und die mit wachsendem Druck auftretende horizontale Verschiebung des Plasmas keinen Fusionsreaktor in wirtschaftlich akzeptabler Größe erlauben würden. Ein weiterer konzeptioneller Nachteil waren die großen Kräfte insbesondere an Stellen, wo sich Magnetspulen nahe kommen oder überkreuzen.
+</p><p>Der Durchbruch gelang mit dem Konzept modularer Spulen (Wobig und Rehker, 1972<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>). In diesen können die auftretenden Kräfte besser aufgefangen werden; sich überkreuzende Spulensysteme werden vermieden. Gleichzeitig ergaben sich mehr Freiheitsgrade zur Optimierung des erzeugten Magnetfelds hinsichtlich des inzwischen weiterentwickelten Verständnisses von Plasmatransport (wichtig bei steigender Temperatur), Gleichgewicht (wichtig mit steigenden Druck) und Instabilitäten (wichtig bei steigenden Temperatur- und Dichte-Unterschieden). Um die grundsätzliche Machbarkeit des modularen Konzepts und die Richtigkeit der theoretisch gewonnenen Optimierungskriterien zu überprüfen, wurde in Garching das Projekt Wendelstein 7-AS (für Advanced Stellarator) vorgeschlagen, das Komponenten des Vorgängers Wendelstein 7-A teilweise weiterverwendete und daher nur eine Teil-Optimierung darstellte. Die Ergebnisse des 1988–2002 betriebenen Experiments erfüllten bzw. übertrafen sogar in einiger Hinsicht die Erwartungen. Dies führte in den 90er Jahren zu einer Neubelebung der weltweiten Stellaratoraktivitäten und zum Bau einer Reihe kleiner und mittlerer Experimente, die Teilaspekte und weitere Magnetfeld-Konfigurationen untersuchen sollten: u.&#160;a. H-1 (Canberra, Australien), TJ-II, (Madrid, Spanien, R=1,5&#160;m), Heliotron-J (Kyoto, Japan) und das <a href="/w/index.php?title=Helically_Symmetric_Experiment&amp;action=edit&amp;redlink=1" class="new" title="Helically Symmetric Experiment (Seite nicht vorhanden)">Helically Symmetric Experiment (HSX) (Madison, Wisconsin, R=1,2&#160;m)</a>. Die beiden letztgenannten Experimente nutzen bereits die sich mit modularen Spulen ergebenden Möglichkeiten.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Datei:HSX_picture.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/HSX_picture.jpg/220px-HSX_picture.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/HSX_picture.jpg/330px-HSX_picture.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/HSX_picture.jpg/440px-HSX_picture.jpg 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:HSX_picture.jpg" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a></div>Seitenansicht des helikal symmetrischen Stellarators HSX in Madison, Wisconsin. Man erkennt die dreidimensional geformten modularen Kupferspulen, die das Plasmagefäß umgeben.</div></div></div>
+<p>In Princeton (USA) wurde mit dem Bau des vergleichsweise kompakten (R=1,4&#160;m) <a href="/wiki/National_Compact_Stellarator_Experiment" title="National Compact Stellarator Experiment">National Compact Stellarator</a>-Experiments begonnen, das eine alternative Optimierungsstrategie des Magnetfeldes verfolgte. Der Strom im Plasma sollte hier gerade nicht minimiert werden, so dass ein Hybrid zwischen Tokamak (Verdrillung des Magnetfelds durch Stromfluss im Plasma) und Stellarator (Verdrillung des Magnetfelds durch externe Spulen) entsteht. Der Bau dieses quasi toroidal-symmetrischen Stellarators wurde von der US-Regierung 2008 aus Kostengründen abgebrochen.
+</p><p>Das seit 1998 in Nagoya (Japan) betriebene, konventionelle Heliotron <a href="/wiki/Large_Helical_Device" title="Large Helical Device">Large Helical Device</a> hat die Machbarkeit eines reaktor-relevanten großen supraleitenden Spulensystems demonstriert und untersucht Eigenschaften von Stellaratorplasmen im Langzeit-Betrieb (großer Radius = 3,6&#160;m, kleiner Radius = 0,6&#160;m, Plasmavolumen V = 26&#160;m<sup>3</sup>).
+</p><p>Auf Basis der Wendelstein-Stellaratoren in Garching und mit den Möglichkeiten der modularen Spulen wurde der sogenannte HELIAS (HELIcally Advanced Stellarator) entwickelt: ein Konzept, bei dem mehrere Optimierungskriterien für das Magnetfeld gleichzeitig  erfüllt werden. Dies führte 1990 zum Design des <a href="/wiki/Wendelstein_7-X" title="Wendelstein 7-X">Wendelstein 7-X</a>, mit dem dieses Konzept auf seine Tauglichkeit für einen Fusionsreaktor untersucht werden soll. Mit dem Bau wurde 2001 in Greifswald begonnen; das erste Plasma wurde Ende 2015 erzeugt.
+</p>
+<h2><span class="mw-headline" id="Stellarator-Typen">Stellarator-Typen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Stellarator-Typen">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=5" title="Abschnitt bearbeiten: Stellarator-Typen">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stellaratoren werden überwiegend für Fusionsplasmen entwickelt. Daneben verwendet man inzwischen Stellaratoren auch für grundlegende plasmaphysikalische Untersuchungen. Beispiele sind der <a href="/wiki/Columbia_Non-Neutral_Torus" title="Columbia Non-Neutral Torus">Columbia Non-Neutral Torus</a> in New York und das Torsatron TJ-K<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> (Universität Stuttgart). Die Fusionsforschung konzentriert sich aber auf die folgenden Typen:
+</p>
+<h3><span class="mw-headline" id="Klassischer_Stellarator">Klassischer Stellarator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Klassischer Stellarator">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=6" title="Abschnitt bearbeiten: Klassischer Stellarator">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Datei:Magnetic_field_stellarator.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Magnetic_field_stellarator.png/220px-Magnetic_field_stellarator.png" decoding="async" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/b/bd/Magnetic_field_stellarator.png 1.5x" data-file-width="324" data-file-height="225" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:Magnetic_field_stellarator.png" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a></div>Schema eines klassischen Stellarators mit helikalen Windungen (weiß) und Toroidalfeld-Spulen (grün).</div></div></div>
+<p>Das Spulensystem besteht aus 2<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span> geschlossenen <a href="/wiki/Helix" title="Helix">helixförmigen</a> Leitern, bei denen der Strom in jeweils benachbarten Leitern in entgegengesetzte Richtung fließt. Dieses Spulensystem ist von weiteren Spulen umgeben, die die toroidale Magnetfeldkomponente erzeugen. Ein klassischer Stellarator besitzt somit zwei ineinander verschränkte Spulensysteme. Dies kann hohe Anforderungen an die mechanische Stabilität stellen, da die an den Kreuzungspunkten der Spulen auftretenden Kräfte durch die Konstruktion aufgefangen werden müssen (Beispiel: Wendelstein 7-A<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>).
+</p>
+<h3><span id="Heliotron.2C_Torsatron"></span><span class="mw-headline" id="Heliotron,_Torsatron">Heliotron, Torsatron</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Heliotron, Torsatron">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=7" title="Abschnitt bearbeiten: Heliotron, Torsatron">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Datei:Large_Helical_Device_mirrored_(2725741289).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Large_Helical_Device_mirrored_%282725741289%29.jpg/220px-Large_Helical_Device_mirrored_%282725741289%29.jpg" decoding="async" width="220" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Large_Helical_Device_mirrored_%282725741289%29.jpg/330px-Large_Helical_Device_mirrored_%282725741289%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Large_Helical_Device_mirrored_%282725741289%29.jpg/440px-Large_Helical_Device_mirrored_%282725741289%29.jpg 2x" data-file-width="944" data-file-height="588" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:Large_Helical_Device_mirrored_(2725741289).jpg" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a></div>Innenansicht des LHD, ein Heliotron</div></div></div>
+<p>Hier fließt der Strom in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span> (mit einer natürlichen Zahl <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span>) geschlossenen helixförmigen Leitern jeweils in die gleiche toroidale Richtung. Die Spulen erzeugen somit gemeinsam auch die toroidale Magnetfeldkomponente. Man benötigt daher kein toroidales Spulensystem, dafür aber Vertikalfeldspulen zur Kompensation des durch die helikalen Spulen erzeugten vertikalen Feldes. Im Gegensatz zum klassischen Stellarator sind die beiden Spulensysteme nicht ineinander verschränkt, die Kräfte zwischen den Spulen sind daher geringer und lassen sich somit leichter durch Stützstrukturen abfangen. Geht man in toroidaler Richtung, entspricht der Querschnitt des Plasmas bei <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span> = 2 einer rotierenden Ellipse. Beispiele sind das Large Helical Device (Japan), die <a href="/w/index.php?title=Advanced_Toroidal_Facility&amp;action=edit&amp;redlink=1" class="new" title="Advanced Toroidal Facility (Seite nicht vorhanden)">Advanced Toroidal Facility</a> (Oak Ridge, USA) und <a href="/w/index.php?title=Uragan_3M&amp;action=edit&amp;redlink=1" class="new" title="Uragan 3M (Seite nicht vorhanden)">Uragan 3M</a> (mit <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span> = 3, Kharkov, Ukraine).
+Das Experiment Heliotron-J<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> (Kyoto, Japan) ist eine Mischform aus Heliotron und Heliac: Die Plasmaachse windet sich, wie in einem Heliac, um den helikalen zentralen Leiter, aber die Toroidalfeldspulen sind wie in einem klassischen Stellarator angeordnet.
+</p>
+<h3><span class="mw-headline" id="Heliac">Heliac</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Heliac">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=8" title="Abschnitt bearbeiten: Heliac">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Im Gegensatz zum Heliotron oder dem klassischen Stellarator bildet die Plasmaachse beim Heliac keinen Kreis, sondern windet sich <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle l}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>l</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;" alt="l"/></span>-mal um eine zentrale, kreisförmige Magnetfeldspule. Die das Plasma umgebenden Toroidalfeldspulen folgen dieser Plasmaachse. Dadurch wird im Bezugssystem des Plasmas eine helikal verwundene Komponente des Magnetfeldes erzeugt. Zum Kompensieren des vertikalen Feldes werden Vertikalfeldspulen benötigt. Heliacs bieten zwischen den Toroidalfeldspulen guten Zugang zum Plasma, was z.&#160;B. für Messungen vorteilhaft ist. Andererseits kommt das Plasma dem zentralen Leiter sehr nahe. Da deshalb dort eine Neutronenabschirmung und ein <a href="/wiki/Blanket" title="Blanket">Brutblanket</a> nur schwer realisiert werden können, gibt es derzeit kein auf dem Heliac basierendes Konzept für einen Fusionsreaktor.
+Beispiele für Heliacs: TJ-II (Madrid, Spanien)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> und H-1 (Canberra, Australien)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>.
+</p>
+<h3><span class="mw-headline" id="Stellarator_mit_modularen_Spulen">Stellarator mit modularen Spulen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Stellarator mit modularen Spulen">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=9" title="Abschnitt bearbeiten: Stellarator mit modularen Spulen">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:362px;"><a href="/wiki/Datei:Wendelstein_7-X_schematic_view_of_magnets_system.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wendelstein_7-X_schematic_view_of_magnets_system.jpg/360px-Wendelstein_7-X_schematic_view_of_magnets_system.jpg" decoding="async" width="360" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wendelstein_7-X_schematic_view_of_magnets_system.jpg/540px-Wendelstein_7-X_schematic_view_of_magnets_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wendelstein_7-X_schematic_view_of_magnets_system.jpg/720px-Wendelstein_7-X_schematic_view_of_magnets_system.jpg 2x" data-file-width="1672" data-file-height="1080" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Datei:Wendelstein_7-X_schematic_view_of_magnets_system.jpg" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a></div>Anordnung der 50 modularen Spulen bei Wendelstein 7-X</div></div></div>
+<p>Die Möglichkeit, ein Stellarator-Magnetfeld mit modularen Spulen zu erzeugen, d.&#160;h. Spulen, die <a href="/wiki/Torus" title="Torus">poloidal</a> geschlossen, aber nicht eben sind, gibt große Gestaltungsfreiheit bei der Wahl des Magnetfeldes. Gleichzeitig lassen sich die magnetischen Kräfte in und zwischen den Spulen besser abfangen. Da keine toroidal umlaufenden Spulen benötigt würden, könnten in einem Reaktor wesentlich kleinere supraleitende Spulen verwendet werden, was entscheidende technische und auch wirtschaftliche Vorteile brächte. Eine Stellaratorkonfiguration mit modularen Spulen erlaubt, nahezu beliebige Stromverteilungen auf einer Fläche um das Plasma herum zu erzeugen. Damit ergeben sich mehr Freiheitsgrade, um Form und Stärke des Magnetfeldes zu optimieren (Beispiel: <a href="/wiki/Wendelstein_7-AS" title="Wendelstein 7-AS">Wendelstein 7-AS</a>, <a href="/wiki/Wendelstein_7-X" title="Wendelstein 7-X">Wendelstein 7-X</a>).
+</p>
+<h3><span class="mw-headline" id="Optimierter_Stellarator">Optimierter Stellarator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Optimierter Stellarator">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=10" title="Abschnitt bearbeiten: Optimierter Stellarator">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aufgrund ihrer dreidimensionalen Geometrie bieten Stellaratoren ein hohes Maß an Freiheit in ihrem Design. Diese Freiheit wird bei modernen Stellaratoren ausgenutzt, um die magnetische Konfiguration in Hinblick auf gewisse Kriterien zu optimieren. Dabei wird die Form des Plasmas unter Verwendung von numerischen Optimierungsalgorithmen so lange verändert, bis ein Satz vorher aufgestellter Bedingungen erfüllt ist, die Forderungen an das physikalische Verhalten des Stellarators darstellen (z.&#160;B. Stabilität des Plasmas gegenüber kleinen Störungen, guter Einschluss von Teilchen). Es wird somit zuerst die Form des Plasmas berechnet und dann in einem zweiten Schritt das (modulare) Spulensystem, welches das benötigte Magnetfeld erzeugt. Eine neuere Entwicklung stellen Mischformen zwischen Tokamak und Stellarator dar, welche sowohl eine dreidimensionale Geometrie als auch einen toroidalen Gesamtstrom besitzen.
+</p><p>Erste Beispiele für modulare Stellaratoren, die solchen Optimierungskriterien folgen, sind <a href="/wiki/Wendelstein_7-AS" title="Wendelstein 7-AS">Wendelstein 7-AS</a> (optimiert bezüglich der Shafranov-Verschiebung), Helically Symmetric Experiment HSX (s. Abbildung unten) (Teilaspekte der Optimierung: Quasi helikale Symmetrie, Madison, Wisconsin), <a href="/wiki/NCSX" class="mw-redirect" title="NCSX">NCSX</a> (Teilaspekte der Optimierung: Quasi toroidale Symmetrie, Princeton, USA, Bau abgebrochen) und <a href="/wiki/Wendelstein_7-X" title="Wendelstein 7-X">Wendelstein 7-X</a> (Greifswald).
+</p>
+<h2><span class="mw-headline" id="Stand_der_Stellaratorentwicklung">Stand der Stellaratorentwicklung</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Stand der Stellaratorentwicklung">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=11" title="Abschnitt bearbeiten: Stand der Stellaratorentwicklung">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Die an Stellaratoren gewonnenen experimentellen Ergebnisse entsprechen in weiten Bereichen denen von Tokamaks und lassen sich daher auf die grundsätzlichen Eigenschaften eines toroidalen Plasma-Einschlusses zurückführen. Das gilt etwa für den Wärme- und Teilchentransport, wie er z.&#160;B. durch Instabilitäten, Turbulenz und Strömungen im Plasma getragen wird. Die verwendeten Heizverfahren, die benötigte Diagnostik sowie die wichtigen Materialfragen der ersten Wand decken sich ebenfalls weitgehend.
+</p><p>Wendelstein 7-AS und LHD haben jeweils mit unterschiedlichen Konzepten gezeigt, dass – wie beim Tokamak – der stabile Betrieb eines <a href="/wiki/Divertor" title="Divertor">Divertors</a> möglich ist.
+</p><p>Die Experimente haben folgende wesentlichen Unterschiede zum Tokamak gezeigt bzw. bestätigt:
+</p>
+<ul><li>Der mit der Temperatur stark zunehmende konvektive Transport als Folge der dreidimensionalen Magnetfeldstruktur wird wie erwartet beobachtet; er sollte durch die Stellarator-Optimierung auf ein akzeptables Maß gedrückt werden.</li>
+<li>Stellaratoren können bei deutlich höheren Dichten arbeiten als <a href="/wiki/Tokamak" title="Tokamak">Tokamaks</a>, da die Gefahr eines Stromabbruchs nicht besteht (mit steigender Dichte sinkt bei gleicher Heizleistung die Temperatur und steigt der Widerstand – ein Plasmastrom verschwindet dann). Die höhere Dichte <i>n</i> hat im Reaktor gegebener Größe den Vorteil einer steigenden Fusionsleistung (<i>P</i><sub>Fusion</sub>~ <i>n</i><sup>2</sup>). Außerdem verbessert sich der experimentell beobachtete Plasma-Einschluss proportional der Wurzel aus <i>n</i>. Die Belastung der Wand ist wegen der gleichzeitig abnehmenden Temperatur geringer.</li>
+<li>Im Betrieb verhalten sich Stellaratoren in der Nähe von Betriebsgrenzen (maximale Dichte, maximaler Druck) vergleichsweise moderat. Es treten keine abrupten Instabilitäten auf, die zu starken Belastungen etwa der ersten Wand führen. Stattdessen kühlt das Plasma ggf. auf einer moderaten Zeitskala aus (letztlich wieder eine Folge des fehlenden Plasmastroms).</li>
+<li>Ein spezifisches Problem von Stellaratoren könnte allerdings sein, dass sich infolge der Driften langfristig im Inneren eine zunehmende Verunreinigungskonzentration aufbauen könnte, die durch verstärkte Strahlung das Plasma auskühlen würde. Dazu fehlen aktuell aussagekräftige Langpuls-Experimente.</li></ul>
+<h2><span class="mw-headline" id="Stellarator-Reaktorkonzepte">Stellarator-Reaktorkonzepte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Stellarator-Reaktorkonzepte">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=12" title="Abschnitt bearbeiten: Stellarator-Reaktorkonzepte">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hauptartikel" role="navigation"><span class="hauptartikel-pfeil" title="siehe" aria-hidden="true" role="presentation">→ </span><i><span class="hauptartikel-text">Hauptartikel</span>: <a href="/wiki/Fusionsreaktor" class="mw-redirect" title="Fusionsreaktor">Fusionsreaktor</a></i></div>
+<p>Reaktorkonzepte auf der Basis des Stellarator-Einschlussprinzips sind in vielen technischen Aspekten ähnlich denen von Tokamaks und profitieren von deren Entwicklung. Der Dauerbetrieb vermeidet jedoch die im Pulsbetrieb auftretenden mechanischen Wechselbelastungen der Strukturteile. Aus der Dreidimensionalität des Magnetfelds ergibt sich andererseits eine hohe physikalische und technische Komplexität. Drei Konzepte werden derzeit (2016) untersucht.
+</p>
+<h3><span class="mw-headline" id="Heliotron-Reaktor">Heliotron-Reaktor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Heliotron-Reaktor">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=13" title="Abschnitt bearbeiten: Heliotron-Reaktor">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ein Heliotron-Reaktor<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> hätte den Vorteil geringer Kräfte zwischen den supraleitenden Spulen und guter Zugänglichkeit zwischen den Spulen hindurch, etwa zur Wartung des <a href="/wiki/Blanket" title="Blanket">Blankets</a>. Dem steht die technische Herausforderung sehr großer toroidal umlaufender supraleitender Spulen entgegen, wie sie am <a href="/wiki/Large_Helical_Device" title="Large Helical Device">LHD</a> allerdings schon in etwas geringerer Größe realisiert wurden. Die zum <a href="/wiki/Divertor" title="Divertor">Divertor</a> führende Magnetfeldstruktur entsteht an den Ecken des annähernd elliptischen Plasmaquerschnitts durch die Konfiguration von selbst und muss nicht wie beim Tokamak durch Extraspulen erzeugt werden. Entsprechend windet sich der "helikale Divertor" mit seinen Prallplatten schraubenförmig um den Torus – im Gegensatz zum Tokamak, wo der Divertor oben bzw. unten toroidal umläuft. Allerdings ist für das klassische Heliotron kein Gesamtkonzept absehbar, bei dem mit ein und derselben Magnetfeldkonfiguration sowohl ausreichend geringer Wärmetransport als auch genügender Plasmadruck erreicht werden können. Entsprechende Studien gleichen diese Nachteile mit der Annahme eines Betriebs bei relativ hoher Dichte und sehr hohen Magnetfeldern (bis B&#160;=&#160;12&#160;T auf der magnetischen Achse) aus, deren Erzeugung erst noch technisch gezeigt werden müsste.
+</p>
+<h3><span class="mw-headline" id="Reaktoren_mit_modularen_Spulen">Reaktoren mit modularen Spulen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Reaktoren mit modularen Spulen">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=14" title="Abschnitt bearbeiten: Reaktoren mit modularen Spulen">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sowohl die US-amerikanische ARIES-Studie als auch der in Europa untersuchte HELIAS-Reaktor sehen modulare Spulen vor. Die Spulen wären mit ihrer mäßigen Größe weitgehend schon mit heutiger Technologie realisierbar, (gerade noch) transportabel und könnten daher einzeln vor dem Zusammenbau getestet werden. An Stellen, wo an der Torus-Innenseite eine starke Krümmung des Magnetfeldes erreicht werden soll, müssen sich allerdings Spule und Plasma relativ nahe kommen. Um dort auch noch ein Brutblanket und eine Neutronen-Abschirmung zu realisieren, benötigt man einen Mindestabstand zwischen dem Plasma und den Spulen von etwa 1,3&#160;m, was nur in relativ großen Reaktoren zu erreichen wäre. Die sich ergebende große Wandfläche würde allerdings auch die Wärmeabfuhr aus dem Plasma erleichtern und die Leistungsdichte auf der ersten Wand und deren <a href="/wiki/Strahlenschaden#Strahlenschäden_in_Materialien" title="Strahlenschaden">Belastung mit Neutronen</a> verringern. Die hohen Magnetkräfte an Stellen, wo sich die modularen Spulen nahe kommen, scheinen konstruktiv beherrschbar zu sein.
+</p>
+<h4><span class="mw-headline" id="ARIES-Studie">ARIES-Studie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: ARIES-Studie">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=15" title="Abschnitt bearbeiten: ARIES-Studie">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Auf Basis des in den USA nicht realisierten modularen Stellarators <a href="/wiki/NCSX" class="mw-redirect" title="NCSX">NCSX</a>, einer quasi toroidal-symmetrischen Konfiguration mit endlichem Strom, wurde eine Studie zu einem vergleichsweise kompakten Stellarator-Reaktor ARIES durchgeführt.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Wegen der erwünschten geringen Größe wird in Kauf genommen, dass das Plasma an Engstellen den Spulen so nahe kommt, dass dort nur eine Neutronenabschirmung, aber kein Brutblanket mehr untergebracht werden könnte.
+</p>
+<h4><span class="mw-headline" id="HELIAS-Reaktor">HELIAS-Reaktor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: HELIAS-Reaktor">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=16" title="Abschnitt bearbeiten: HELIAS-Reaktor">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Die Weiterentwicklung des in <a href="/wiki/Wendelstein_7-X" title="Wendelstein 7-X">Wendelstein 7-X</a> angewandten <a href="/wiki/Wendelstein_7-X#Grundlagen_und_Ziele_des_Projekts" title="Wendelstein 7-X">HELIAS-Konzepts</a> würde zu Reaktoren mit vergleichsweise großen Radien (&gt;18&#160;m) führen.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Diese werden notwendig, um überall ein Brutblanket zu realisieren und um Zündung zu erreichen; beides erfordert einen kleinen Radius von mindestens 1,8&#160;m, wenn man für die supraleitenden Spulen konservativ von heute verfügbarer Technologie und moderaten Magnetfeldern (B=5&#160;T) ausgeht. Ein solcher Reaktor wäre knapp viermal so groß wie das Wendelstein-7-X-Experiment.
+</p>
+<h2><span class="mw-headline" id="Literatur">Literatur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=17" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Literatur">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=17" title="Abschnitt bearbeiten: Literatur">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>„Helical Confinement Devices“, Beidler, et al. in Fusion Physics, ed. by Kikuchi, Lackner, Tran, International Atomic Energy Agency Vienna 2012.</li></ul>
+<h2><span class="mw-headline" id="Einzelnachweise">Einzelnachweise</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=18" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Einzelnachweise">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=18" title="Abschnitt bearbeiten: Einzelnachweise">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Peter Lobner&#58;&#32;<cite><a rel="nofollow" class="external text" href="https://lynceans.org/tag/stellarator/">Return of the Stellarator</a></cite>&#32;(<span style="color:#555; font-size:90%;">auf Englisch</span>)&#32;30.&#160;August 2017.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">historische Zusammenfassung der Garchinger Arbeiten in: Grieger G et al. 1985 Nucl. Fusion 25 1231–42</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">H. Wobig, S. Rehker: <cite style="font-style:italic">A Stellarator coil system without helical windings</cite>. In: <cite style="font-style:italic">Proceedings of the 7th Symposium on Fusion Technology</cite>. Grenoble, France 1972, <span style="white-space:nowrap">S.<span style="display:inline-block;width:.2em">&#160;</span>345&#8211;353</span>.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rfr_id=info:sid/de.wikipedia.org:Stellarator&amp;rft.atitle=A+Stellarator+coil+system+without+helical+windings&amp;rft.au=H.+Wobig%2C+S.+Rehker&amp;rft.btitle=Proceedings+of+the+7th+Symposium+on+Fusion+Technology&amp;rft.date=1972&amp;rft.genre=book&amp;rft.pages=345-353&amp;rft.place=Grenoble%2C+France" style="display:none">&#160;</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.igvp.uni-stuttgart.de/forschung/projekte-pd/tjk.en.html">TJ-K</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ipp.mpg.de/3870450/wendelstein7a">Wendelstein 7-A am IPP</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131005013002/http://www.iae.kyoto-u.ac.jp/english/soshiki/plasma.html">Heliotron-J</a> (<a href="/wiki/Web-Archivierung#Begrifflichkeiten" title="Web-Archivierung"><span style="color:#303030!important">Memento</span></a>&#32;des <span class="external text"><a rel="nofollow" class="external text" href="https://giftbot.toolforge.org/deref.fcgi?url=http%3A%2F%2Fwww.iae.kyoto-u.ac.jp%2Fenglish%2Fsoshiki%2Fplasma.html">Originals</a></span> vom 5. Oktober 2013 im <i><a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></i>)&#32;<small><span class="wp_boppel noviewer" aria-hidden="true" role="presentation"><img alt="i" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/15px-Pictogram_voting_info.svg.png" decoding="async" title="i" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/23px-Pictogram_voting_info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/30px-Pictogram_voting_info.svg.png 2x" data-file-width="250" data-file-height="250" /></span>&#160;<b>Info:</b> Der Archivlink wurde automatisch eingesetzt und noch nicht geprüft. Bitte prüfe Original- und Archivlink gemäß <a href="/wiki/Benutzer:InternetArchiveBot/Anleitung/Archivlink" title="Benutzer:InternetArchiveBot/Anleitung/Archivlink">Anleitung</a> und entferne dann diesen Hinweis.</small><span style="display:none"><a rel="nofollow" class="external text" href="http://IABotmemento.invalid/http://www.iae.kyoto-u.ac.jp/english/soshiki/plasma.html">@1</a></span><span style="display:none"><a rel="nofollow" class="external text" href="http://www.iae.kyoto-u.ac.jp/english/soshiki/plasma.html">@2</a></span><span style="display:none"><a href="/w/index.php?title=Vorlage:Webachiv/IABot/www.iae.kyoto-u.ac.jp&amp;action=edit&amp;redlink=1" class="new" title="Vorlage:Webachiv/IABot/www.iae.kyoto-u.ac.jp (Seite nicht vorhanden)">Vorlage:Webachiv/IABot/www.iae.kyoto-u.ac.jp</a></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www-fusion.ciemat.es/New_fusion/en/TJII">TJ-II, Madrid</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130409180149/http://h1nf.anu.edu.au/">H-1, Canberra</a> (<a href="/wiki/Web-Archivierung#Begrifflichkeiten" title="Web-Archivierung"><span style="color:#303030!important">Memento</span></a>&#32;des <span class="external text"><a rel="nofollow" class="external text" href="https://giftbot.toolforge.org/deref.fcgi?url=http%3A%2F%2Fh1nf.anu.edu.au%2F">Originals</a></span> vom 9. April 2013 im <i><a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></i>)&#32;<small><span class="wp_boppel noviewer" aria-hidden="true" role="presentation"><img alt="i" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/15px-Pictogram_voting_info.svg.png" decoding="async" title="i" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/23px-Pictogram_voting_info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/30px-Pictogram_voting_info.svg.png 2x" data-file-width="250" data-file-height="250" /></span>&#160;<b>Info:</b> Der Archivlink wurde automatisch eingesetzt und noch nicht geprüft. Bitte prüfe Original- und Archivlink gemäß <a href="/wiki/Benutzer:InternetArchiveBot/Anleitung/Archivlink" title="Benutzer:InternetArchiveBot/Anleitung/Archivlink">Anleitung</a> und entferne dann diesen Hinweis.</small><span style="display:none"><a rel="nofollow" class="external text" href="http://IABotmemento.invalid/http://h1nf.anu.edu.au/">@1</a></span><span style="display:none"><a rel="nofollow" class="external text" href="http://h1nf.anu.edu.au/">@2</a></span><span style="display:none"><a href="/w/index.php?title=Vorlage:Webachiv/IABot/h1nf.anu.edu.au&amp;action=edit&amp;redlink=1" class="new" title="Vorlage:Webachiv/IABot/h1nf.anu.edu.au (Seite nicht vorhanden)">Vorlage:Webachiv/IABot/h1nf.anu.edu.au</a></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Sagara, A., et al.; Fusion Eng. Des. 81 (2006) 2703–2712.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Najmabadi, F., et al., Fusion Sci. Technol. 54(3) (2008) 655-672</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Beidler, C., et al., Nucl. Fusion 43 (2003) 889-898.</span>
+</li>
+</ol>
+<h2><span class="mw-headline" id="Weblinks">Weblinks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Stellarator&amp;veaction=edit&amp;section=19" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Weblinks">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Stellarator&amp;action=edit&amp;section=19" title="Abschnitt bearbeiten: Weblinks">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="sisterproject" style="margin:0.1em 0 0 0;"><div class="noviewer" style="display:inline-block; line-height:10px; min-width:1.6em; text-align:center;" aria-hidden="true" role="presentation"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></div><b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Stellarators?uselang=de"><span lang="en">Commons</span>: Stellaratoren</a></span></b>&#160;– Sammlung von Bildern, Videos und Audiodateien</div>
+<div class="sisterproject" style="margin:0.1em 0 0 0;"><span class="noviewer" style="display:inline-block; line-height:10px; min-width:1.6em; text-align:center;" aria-hidden="true" role="presentation"><img alt="Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wiktfavicon_en.svg/16px-Wiktfavicon_en.svg.png" decoding="async" title="Wiktionary" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wiktfavicon_en.svg/24px-Wiktfavicon_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wiktfavicon_en.svg/32px-Wiktfavicon_en.svg.png 2x" data-file-width="16" data-file-height="16" /></span><b><a href="https://de.wiktionary.org/wiki/Stellarator" class="extiw" title="wikt:Stellarator">Wiktionary: Stellarator</a></b>&#160;– Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen</div>
+<div id="normdaten" class="catlinks normdaten-typ-s">Normdaten&#160;(Sachbegriff): <a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <span class="plainlinks-print"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4183081-7">4183081-7</a></span> <span class="metadata noprint">(<a rel="nofollow" class="external text" href="http://swb.bsz-bw.de/DB=2.104/SET=1/TTL=1/CMD?retrace=0&amp;trm_old=&amp;ACT=SRCHA&amp;IKT=2999&amp;SRT=RLV&amp;TRM=4183081-7">OGND</a>, <a rel="nofollow" class="external text" href="https://beacon.findbuch.de/seemore/gnd-aks?format=sources&amp;id=4183081-7">AKS</a>)</span>       <span class="metadata"></span></div>
+<!-- 
+NewPP limit report
+Parsed by mw1367
+Cached time: 20200623125005
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.248 seconds
+Real time usage: 0.366 seconds
+Preprocessor visited node count: 1084/1000000
+Post‐expand include size: 18121/2097152 bytes
+Template argument size: 2390/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7364/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  293.572      1 -total
+ 21.75%   63.855      2 Vorlage:Webarchiv
+ 19.42%   57.020      1 Vorlage:Literatur
+ 13.83%   40.588      1 Vorlage:LaS
+ 11.17%   32.802      1 Vorlage:Cite_web
+  9.28%   27.252      2 Vorlage:Webarchiv/archiv-bot
+  8.92%   26.199      1 Vorlage:Commonscat
+  8.13%   23.881      2 Vorlage:Wikidata-Registrierung
+  7.44%   21.849      1 Vorlage:FormatDate
+  6.55%   19.217      2 Vorlage:Webarchiv/archiv-bot-core
+-->
+
+<!-- Saved in parser cache with key dewiki:stable-pcache:idhash:134441-0!canonical!math=5 and timestamp 20200623125005 and revision id 201237329
+ -->
+</div><noscript><img src="//de.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Abgerufen von „<a dir="ltr" href="https://de.wikipedia.org/w/index.php?title=Stellarator&amp;oldid=201237329">https://de.wikipedia.org/w/index.php?title=Stellarator&amp;oldid=201237329</a>“</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorien" title="Wikipedia:Kategorien">Kategorien</a>: <ul><li><a href="/wiki/Kategorie:Reaktortyp" title="Kategorie:Reaktortyp">Reaktortyp</a></li><li><a href="/wiki/Kategorie:Fusionsreaktortechnik" title="Kategorie:Fusionsreaktortechnik">Fusionsreaktortechnik</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Versteckte Kategorien: <ul><li><a href="/wiki/Kategorie:Wikipedia:Defekte_Weblinks/Ungepr%C3%BCfte_Archivlinks_2019-05" title="Kategorie:Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2019-05">Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2019-05</a></li><li><a href="/wiki/Kategorie:Wikipedia:geplantes_Vorhaben_ohne_Zeitziel" title="Kategorie:Wikipedia:geplantes Vorhaben ohne Zeitziel">Wikipedia:geplantes Vorhaben ohne Zeitziel</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigationsmenü</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Meine Werkzeuge</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Nicht angemeldet</li><li id="pt-anontalk"><a href="/wiki/Spezial:Meine_Diskussionsseite" title="Diskussion über Änderungen von dieser IP-Adresse [n]" accesskey="n">Diskussionsseite</a></li><li id="pt-anoncontribs"><a href="/wiki/Spezial:Meine_Beitr%C3%A4ge" title="Eine Liste der Bearbeitungen, die von dieser IP-Adresse gemacht wurden [y]" accesskey="y">Beiträge</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Spezial:Benutzerkonto_anlegen&amp;returnto=Stellarator" title="Wir ermutigen dich dazu, ein Benutzerkonto zu erstellen und dich anzumelden. Es ist jedoch nicht zwingend erforderlich.">Benutzerkonto erstellen</a></li><li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Stellarator" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o">Anmelden</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namensräume</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Stellarator" title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></li><li id="ca-talk"><a href="/wiki/Diskussion:Stellarator" rel="discussion" title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Varianten</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Ansichten</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Stellarator">Lesen</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Stellarator&amp;veaction=edit" title="Diese Seite mit dem VisualEditor bearbeiten [v]" accesskey="v">Bearbeiten</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Stellarator&amp;action=edit" title="Diese Seite bearbeiten [e]" accesskey="e">Quelltext bearbeiten</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Stellarator&amp;action=history" title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionsgeschichte</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Mehr</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Suche</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Wikipedia durchsuchen" title="Durchsuche die Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Spezial:Suche">
+			<input type="submit" name="fulltext" value="Suchen" title="Suche nach Seiten, die diesen Text enthalten" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Artikel" title="Gehe direkt zu der Seite mit genau diesem Namen, falls sie vorhanden ist." id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Hauptseite" class="mw-wiki-logo" href="/wiki/Wikipedia:Hauptseite"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Hauptseite" title="Hauptseite besuchen [z]" accesskey="z">Hauptseite</a></li><li id="n-topics"><a href="/wiki/Portal:Wikipedia_nach_Themen">Themenportale</a></li><li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x">Zufälliger Artikel</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-Mitmachen" class="vector-menu vector-menu-portal portal" aria-labelledby="p-Mitmachen-label" role="navigation" 
+	 >
+	<h3 id="p-Mitmachen-label">
+		<span>Mitmachen</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-Artikel-verbessern"><a href="/wiki/Wikipedia:Beteiligen">Artikel verbessern</a></li><li id="n-Neuerartikel"><a href="/wiki/Hilfe:Neuen_Artikel_anlegen">Neuen Artikel anlegen</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Autorenportal" title="Info-Zentrum über Beteiligungsmöglichkeiten">Autorenportal</a></li><li id="n-help"><a href="/wiki/Hilfe:%C3%9Cbersicht" title="Hilfeseite anzeigen">Hilfe</a></li><li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r">Letzte Änderungen</a></li><li id="n-contact"><a href="/wiki/Wikipedia:Kontakt">Kontakt</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_de.wikipedia.org&amp;uselang=de" title="Unterstütze uns">Spenden</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Werkzeuge</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Stellarator" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li><li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Stellarator" rel="nofollow" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li><li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li><li id="t-permalink"><a href="/w/index.php?title=Stellarator&amp;oldid=201237329" title="Dauerhafter Link zu dieser Seitenversion">Permanenter Link</a></li><li id="t-info"><a href="/w/index.php?title=Stellarator&amp;action=info" title="Weitere Informationen über diese Seite">Seiten­informationen</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1360597" title="Link zum verbundenen Objekt im Datenrepositorium [g]" accesskey="g">Wikidata-Datenobjekt</a></li><li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Stellarator&amp;id=201237329&amp;wpFormIdentifier=titleform" title="Hinweise, wie diese Seite zitiert werden kann">Artikel zitieren</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>In anderen Sprachen</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Стелларатор – Baschkirisch" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BB%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Стеларатор – Bulgarisch" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Stellarator" title="Stellarator – Katalanisch" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Stelar%C3%A1tor" title="Stelarátor – Tschechisch" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Stellarator" title="Stellarator – Englisch" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Stellarator" title="Stellarator – Spanisch" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Stellaraator" title="Stellaraator – Estnisch" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%84%D8%B1%D8%A7%D8%AA%D9%88%D8%B1" title="استلراتور – Persisch" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Stellarator" title="Stellarator – Französisch" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Sztellar%C3%A1tor" title="Sztellarátor – Ungarisch" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BD%D5%BF%D5%B2%D5%A1%D6%80%D5%A1%D6%80" title="Աստղարար – Armenisch" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Stellarator" title="Stellarator – Italienisch" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AA%E3%82%AB%E3%83%AB%E5%9E%8B" title="ヘリカル型 – Japanisch" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Стелларатор – Kasachisch" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%85%94%EB%9D%BC%EB%A0%88%EC%9D%B4%ED%84%B0" title="스텔라레이터 – Koreanisch" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Stellarator" title="Stellarator – Niederländisch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Stellarator" title="Stellarator – Norwegisch Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Stellarator" title="Stellarator – Polnisch" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Stellarator" title="Stellarator – Portugiesisch" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Стелларатор – Russisch" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Stelarator" title="Stelarator – Slowenisch" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Stellarator" title="Stellarator – Schwedisch" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Stellarat%C3%B6r" title="Stellaratör – Türkisch" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BB%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Стеларатор – Ukrainisch" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BB%BF%E6%98%9F%E5%99%A8" title="仿星器 – Chinesisch" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1360597#sitelinks-wikipedia" title="Links auf Artikel in anderen Sprachen bearbeiten" class="wbc-editpage">Links bearbeiten</a></span></div>
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In anderen Projekten</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Stellarators" hreflang="en">Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Drucken/­exportieren</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Stellarator">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:ElectronPdf&amp;page=Stellarator&amp;action=show-download-screen">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Stellarator&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 23. Juni 2020 um 14:49 Uhr bearbeitet.</li>
+		<li id="footer-info-copyright"><div id="footer-info-copyright-stats" class="noprint"><a class="external" href="https://pageviews.toolforge.org/?pages=Stellarator&amp;project=de.wikipedia.org" rel="nofollow">Abrufstatistik</a> · <a class="external" href=" https://xtools.wmflabs.org/articleinfo-authorship/de.wikipedia.org/Stellarator?uselang=de" rel="nofollow">Autoren</a> </div><div id="footer-info-copyright-separator"><br /></div><div id="footer-info-copyright-info">
+Der Text ist unter der Lizenz <a class="internal" href="https://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported">„Creative Commons Attribution/Share Alike“</a> verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den <a class="internal" href="https://foundation.wikimedia.org/wiki/Terms_of_Use/de">Nutzungsbedingungen</a> und der <a class="internal" href="https://meta.wikimedia.org/wiki/Privacy_policy/de">Datenschutzrichtlinie</a> einverstanden.<br />
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</div></li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/de" class="extiw" title="m:Privacy policy/de">Datenschutz</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia" title="Wikipedia:Über Wikipedia">Über Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Impressum" title="Wikipedia:Impressum">Impressum</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Entwickler</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/de.wikipedia.org">Statistiken</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Stellungnahme zu Cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//de.m.wikipedia.org/w/index.php?title=Stellarator&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile Ansicht</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.366","ppvisitednodes":{"value":1084,"limit":1000000},"postexpandincludesize":{"value":18121,"limit":2097152},"templateargumentsize":{"value":2390,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7364,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  293.572      1 -total"," 21.75%   63.855      2 Vorlage:Webarchiv"," 19.42%   57.020      1 Vorlage:Literatur"," 13.83%   40.588      1 Vorlage:LaS"," 11.17%   32.802      1 Vorlage:Cite_web","  9.28%   27.252      2 Vorlage:Webarchiv/archiv-bot","  8.92%   26.199      1 Vorlage:Commonscat","  8.13%   23.881      2 Vorlage:Wikidata-Registrierung","  7.44%   21.849      1 Vorlage:FormatDate","  6.55%   19.217      2 Vorlage:Webarchiv/archiv-bot-core"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2909621,"limit":52428800}},"cachereport":{"origin":"mw1367","timestamp":"20200623125005","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Stellarator","url":"https:\/\/de.wikipedia.org\/wiki\/Stellarator","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1360597","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1360597","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-06T22:02:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b3\/W7X-Spulen_Plasma_blau_gelb.jpg","headline":"Fusionsreaktor Konzept"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":159,"wgHostname":"mw1385"});});</script></body></html>
