@@ -2,9 +2,11 @@
 \BOOKMARK [2][]{Outline0.2}{Introduction to Gorilla}{}% 2
 \BOOKMARK [2][]{Outline0.3}{Implementation of the grid}{}% 3
 \BOOKMARK [2][]{Outline0.4}{Requirements to the grid}{}% 4
-\BOOKMARK [2][]{Outline0.5}{Meeting the requirements}{}% 5
-\BOOKMARK [2][]{Outline0.6}{Generating the field aligned grid}{}% 6
-\BOOKMARK [2][]{Outline0.7}{Application: Mono-energetic radial transport coefficient}{}% 7
-\BOOKMARK [2][]{Outline0.8}{Conclusion}{}% 8
-\BOOKMARK [2][]{Outline0.9}{Conclusion}{}% 9
-\BOOKMARK [2][]{Outline0.10}{ }{}% 10
+\BOOKMARK [2][]{Outline0.5}{Cylindrical contour grid}{}% 5
+\BOOKMARK [2][]{Outline0.6}{Symmetry flux coordinates}{}% 6
+\BOOKMARK [2][]{Outline0.7}{Field aligned grid}{}% 7
+\BOOKMARK [2][]{Outline0.8}{Numerical orbit calculation}{}% 8
+\BOOKMARK [2][]{Outline0.9}{Application: Mono-energetic radial transport coefficient}{}% 9
+\BOOKMARK [2][]{Outline0.10}{Conclusion}{}% 10
+\BOOKMARK [2][]{Outline0.11}{Conclusion}{}% 11
+\BOOKMARK [2][]{Outline0.12}{ }{}% 12

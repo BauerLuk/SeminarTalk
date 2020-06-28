@@ -210,7 +210,7 @@
 						\item coupling Vlasov + Maxwells equations
 				\end{itemize}
 			\item Gyro-kinetic Approach
-							\begin{itemize}
+				\begin{itemize}
 				\item averaging over gyrating motion around field lines
 				\item reduced distribution function $f(\vec{x},v_\parallel, v_\perp)$
 			\end{itemize}
@@ -252,18 +252,19 @@
 \begin{frame}
 \frametitle{\textbf{Gorilla} guiding center code}
 \begin{columns}[onlytextwidth]
-	\begin{column}{0.45\textwidth}
-			\begin{center}
-\begin{itemize}
-\item \textbf{G}eometric \textbf{OR}bit \textbf{I}ntegration with \textbf{L}ocal \textbf{L}inearisation \textbf{A}pproach
-\item Integration of charged particle guiding center orbits in toroidal fusion devices
-\end{itemize}
+	\begin{column}{0.5\textwidth}
+
+		\begin{center}
+	\includegraphics[trim={5cm 10cm 1cm 4cm},clip,width=1\textwidth]{FIGURES/guiding_center_drawn2.pdf}
 \end{center}
 \end{column}
-	\begin{column}{0.45\textwidth}
-		\begin{center}
-		\includegraphics[trim={10 15 10 10cm},clip,width=1\textwidth]{FIGURES/guiding_center_drawn.pdf}
-	\end{center}
+	\begin{column}{0.50\textwidth}
+			\begin{center}
+	\begin{itemize}
+		\item \textbf{G}eometric \textbf{OR}bit \textbf{I}ntegration with \textbf{L}ocal \textbf{L}inearisation \textbf{A}pproach
+		\item Integration of charged particle guiding center orbits in toroidal fusion devices
+	\end{itemize}
+\end{center}
 	\end{column}
 	\end{columns}
 \end{frame}
@@ -456,6 +457,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 \end{itemize}
 \end{frame}
 
+\section{Cylindrical contour grid}
 \begin{frame}
 \frametitle{Initial grid: cylindrical contour grid}
 \vspace{-1.5 cm}
@@ -535,7 +537,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 
 
 
-
+\section{Symmetry flux coordinates}
 \begin{frame}
 \frametitle{Idea: symmetry flux coordinates}
 \vspace{-1 cm}
@@ -543,7 +545,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 	\begin{column}{0.5\textwidth}
 		\begin{center}
 			\begin{figure}
-				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/a-Contour-plot-of-equilibrium-poloidal-flux-of-background-plasma-in-R-Z-coordinates.png}
+				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/magnetic_field_labeled0.jpg}
 				\caption{Magnetic field topology}
 			\end{figure}
 		\end{center}
@@ -574,7 +576,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 	\begin{column}{0.5\textwidth}
 		\begin{center}
 			\begin{figure}
-				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/a-Contour-plot-of-equilibrium-poloidal-flux-of-background-plasma-in-R-Z-coordinates.png}
+				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/magnetic_field_labeled0.jpg}
 				\caption{Magnetic field topology}
 			\end{figure}
 		\end{center}
@@ -600,6 +602,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 \textbf{Problem with CCG: incompatible with SFC}
 \end{frame}
 
+\section{Field aligned grid}
 \begin{frame}
 \frametitle{Implementing a field aligned grid}
 \vspace{-1 cm}
@@ -607,7 +610,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 	\begin{column}{0.5\textwidth}
 		\begin{center}
 			\begin{figure}
-				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/a-Contour-plot-of-equilibrium-poloidal-flux-of-background-plasma-in-R-Z-coordinates.png}
+				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/magnetic_field_labeled.jpg}
 \caption{Magnetic field topology}
 			\end{figure}
 		\end{center}
@@ -616,7 +619,43 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 		\vspace{0 cm}
 		\begin{center}
 			\begin{itemize}
-				\item
+
+				\item find $O$-point and $X$-point
+				\item field line integration for coordinate interpolation
+				\item interpolation routine: $(s,\vartheta,\varphi)\rightarrow (R,\varphi,Z)$ for evaluation of field quantities
+				\item create 2D grid points \newline $\rightarrow$ extrude to 3D
+				\item connect vertices to form tetrahedra
+			\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Field-line integration}
+\vspace{-0.5 cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/field_lines_torus.pdf}
+				\caption{Selected field lines in torus}
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{0 cm}
+		\begin{center}
+			\begin{itemize}
+				\item Field line equations: $\frac{\textrm{d}R}{\textrm{d}\varphi} = \frac{B^R}{B^\varphi}, \hspace{0.1cm} \frac{\textrm{d}Z}{\textrm{d}\varphi} = \frac{B^Z}{B^\varphi}
+				$
+				\vspace{1cm}
+				\item Safety factor: \newline $q_s = \frac{B^\varphi}{B^\vartheta},~\textrm{d}\varphi= q_s\textrm{d}\vartheta
+				$
+					\begin{itemize}
+					\item if $q_s$ is irrational, the field line forms a flux surface
+				\end{itemize}
 			\end{itemize}
 		\end{center}
 	\end{column}
@@ -625,9 +664,60 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 
 
 
-%\begin{frame}
-%\frametitle{}
-%\vspace{0 cm}
+\begin{frame}
+\frametitle{Finding the $O$-point}
+\vspace{-1 cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={6cm 5cm 1.5cm 5cm cm},clip,width=0.6\textwidth]{FIGURES/getOpoint.pdf}
+				\caption{Iterative scheme for finding the $O-point$}
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{0 cm}
+		\begin{center}
+			\begin{itemize}
+				\item start at point $1$, follow $\vec{B}$ for 10 toroidal turns in $(R,\varphi,Z)$
+				\item  compute average of $(R,Z)\rightarrow$ new starting point for the next iteration
+				\item perform 20 iterations for satisfying accuracy of the magnetic axis
+			\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Finding the $X$-point}
+\vspace{-1 cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={6cm 2.5cm 1.5cm 5cm cm},clip,width=0.6\textwidth]{FIGURES/getXpoint.pdf}
+				\caption{Iterative scheme for finding the $X-point$}
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{0 cm}
+		\begin{center}
+			\begin{itemize}
+				\item start inside and integrate field line for one poloidal turn
+				\item increase distance to mag. axis and repeat until the field line does not cross $\rightarrow$ Separatrix
+				\item perform iterative integrations with $\Delta\varphi= 2\pi/10$
+				$\rightarrow$ convergence, since $B^{pol} = 0$ at $X$-point
+			\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Massive computation of field lines}
+\vspace{0 cm}
 %\begin{columns}[onlytextwidth]
 %	\begin{column}{0.5\textwidth}
 %		\begin{center}
@@ -638,7 +728,143 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 %		\end{center}
 %	\end{column}
 %	\begin{column}{0.5\textwidth}
-%		\vspace{0 cm}
+		\vspace{-0.5 cm}
+		\begin{center}
+			\begin{itemize}
+				\item parametrize line segment from $O$-point to $X$-point with 500 equidistant starting points $\rightarrow$ $\vartheta=0$-contour
+				\item integrate each line for one poloidal turn $\rightarrow$ compute $q_s$
+				\item integrate each line for one poloidal turn over 500 equidistant steps $\rightarrow$ save $(R,Z)$ together with poloidal and normalized toroidal flux $s$ and poloidal angle $\vartheta = i/500$ with current step $i$
+				\item due to axisymmetry $\varphi$ is equal to the cyl. coordinates toroidal angle
+			\end{itemize}
+		\end{center}
+%	\end{column}
+%\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Interpolation of $(R,Z)$ from $(s,\vartheta)$}
+\vspace{0 cm}
+%\begin{columns}[onlytextwidth]
+%	\begin{column}{0.5\textwidth}
+%		\begin{center}
+%			\begin{figure}
+%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/}
+%				\caption{}
+%			\end{figure}
+%		\end{center}
+%	\end{column}
+%	\begin{column}{0.5\textwidth}
+		\vspace{0 cm}
+		\begin{center}
+			\begin{itemize}
+				\item compute periodic spline coefficients in $\vartheta$ for each saved field line, $s=const.$ along a field line
+				\item for a given value of $\vartheta$, evaluate interpolated values of $R,Z$ for field lines which are adjacent to $s$
+				\item use Lagrange polynomial interpolation to compute $R(s,\vartheta),~ Z(s,\vartheta)$ 
+			\end{itemize}
+		\end{center}
+%	\end{column}
+%\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Lagrange polynomial interpolation}
+\vspace{-1.5cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/lag_interp_plot1.eps}
+					\vspace{-0.5cm}
+					\caption{Depiction of $L_k(z)$}
+										\vspace{-0.35cm}
+				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/lag_interp_plot2.eps}
+					\caption{Depiction of $P_4(z)$}
+		\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{1.5cm}
+		\begin{center}
+			\begin{itemize}
+				\item $P_n(z) = \sum_{k=0}^{n} L_k(z)f_k $
+				\vspace{0.5cm}
+				\item $L_k(z) =  \prod_{j=0, j \neq k}^{n} \frac{z-z_j}{z_k-z_j}$
+			\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Generate grid vertices}
+\vspace{-1 cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={1cm 0cm 1cm 0cm},clip,width=1\textwidth]{FIGURES/Delaunay_Connected_PrismFaces.eps}
+				\caption{2D grid vertices}
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{0 cm}
+		\begin{center}
+			\begin{itemize}
+				\item Generate the vertex positions in poloidal plane
+					\begin{itemize}
+				\item set number of points per ring
+				\item scale point distributions according to scaling functions for $s,~\vartheta$
+			\end{itemize}
+		\item Extrude vertex coordinates toroidally $(s,\vartheta, \varphi=0)\rightarrow (s,\vartheta, \varphi)$
+		\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mesh tetrahedra using Delaunay condition}
+\vspace{-1.5cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=0.9\textwidth]{FIGURES/Delaunay_Connected_PrismFaces.eps}
+	\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=0.75\textwidth]{FIGURES/uvpq_Delaunay.eps}
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{0cm}
+		\begin{center}
+						\begin{itemize}
+					\item index vertices to prism face of correct type \newline
+					 $\rightarrow$ Delaunay condition 
+				\end{itemize}
+			\begin{figure}
+	\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/2Prisms_comparison.eps}
+	\caption{Prism types used for tetrahedra indexing}
+\end{figure}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{One compromise: there is a hole}
+\vspace{-1cm}
+%\begin{columns}[onlytextwidth]
+%	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={1cm 2cm 1cm 1cm},clip,width=1\textwidth]{FIGURES/Comparison_smin_annulus.eps}
+				\caption{Center region of the grid with annulus}
+			\end{figure}
+		\end{center}
+%	\end{column}
+%	\begin{column}{0.5\textwidth}
+%		\vspace{0cm}
 %		\begin{center}
 %			\begin{itemize}
 %				\item
@@ -646,16 +872,42 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 %		\end{center}
 %	\end{column}
 %\end{columns}
-%\end{frame}
-
-
-
-\section{Meeting the requirements}
+\end{frame}
 
 
 
 \begin{frame}
-\frametitle{Computational method - efficiency}
+\frametitle{Field aligned grid}
+\vspace{-1cm}
+%\begin{columns}[onlytextwidth]
+%	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/Curvilinear_grid_and_tetrahedra.eps}
+				\caption{Poloidal cross-section and grid elements of field aligned grid in real space}
+			\end{figure}
+		\end{center}
+%	\end{column}
+%	\begin{column}{0.5\textwidth}
+%		\vspace{0cm}
+%		\begin{center}
+%			\begin{itemize}
+%				\item
+%			\end{itemize}
+%		\end{center}
+%	\end{column}
+%\end{columns}
+\end{frame}
+
+
+
+
+
+\section{Numerical orbit calculation}
+
+
+\begin{frame}
+\frametitle{Computational approach}
 \vspace{-0.5cm}
 \begin{itemize}
 	\item Piecewise-constant coefficients of 
@@ -671,25 +923,98 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 \end{itemize}
 \end{frame}
 
-
-
+\begin{frame}
+\frametitle{Analytical solution to ODE set}
+\vspace{0cm}
+$x^i(\tau) =   \psi^i_l  \left(\bar{\psi}^l_k x^k_{(0)}e^{\lambda^l \tau} + \frac{\bar{\psi}^l_k D^k}{a-\lambda^l}(e^{a\tau}-e^{\lambda^l\tau}) + \right.$\\
+\vspace{0.5cm}
+\hspace{1.5cm}$\left. \frac{\bar{\psi}^l_k F^k}{2a-\lambda^l}(e^{2a\tau}-e^{\lambda^l\tau})-\frac{\bar{\psi}^l_k E^k}{\lambda^l}(1-e^{\lambda^l\tau}) \right)$
+\end{frame}
 
 \begin{frame}
-\frametitle{Error of the RK~4 method}
-\vspace{-0.5cm}
-\begin{itemize}
-	\item The relative integration error of a single step between cell boundaries strongly \textbf{scales with the Larmor radius $\rho$}.
-	
-	\item The error is in the order of
-	\be{RK4estimation}
-	\frac{\delta R(\Delta\tau)}{a} \sim \frac{\rho^3}{q^4 R^3} \Delta \varphi^5,
-	\ee
-	with $R$, $a$, $q$ and $\Delta\varphi$ denoting major radius, plasma radius, safety factor and toroidal cell length.
-	
-	\item 
-	The \textbf{error of the RK4 method} can be brought \textbf{below computer accuracy}.
-\end{itemize}
+\frametitle{Analytical solution to ODE set}
+\vspace{0cm}
+$x^i(\tau) =   \psi^i_l  \left(\bar{\psi}^l_k x^k_{(0)}e^{\lambda^l \tau} + \frac{\bar{\psi}^l_k D^k}{a-\lambda^l}(e^{a\tau}-e^{\lambda^l\tau}) + \right.$\\
+\vspace{0.5cm}
+\hspace{1.5cm}$\left. \frac{\bar{\psi}^l_k F^k}{2a-\lambda^l}(e^{2a\tau}-e^{\lambda^l\tau})-\frac{\bar{\psi}^l_k E^k}{\lambda^l}(1-e^{\lambda^l\tau}) \right)$
+\vspace{1cm}
+
+Unfortunately, due to numerical inaccuracies and high computational cost, this is not useful!
 \end{frame}
+
+\begin{frame}
+\frametitle{New approach: Taylor expansion of solution}
+\vspace{0cm}
+ODE set: $$\frac{\rd \textbf{z}}{\rd \tau} = \hat{\textbf{a}}\textbf{z} + \textbf{b}$$ \newline
+\vspace{0cm}
+Taylor series: $$\textbf{z}=\textbf{z}_0 + \sum\limits_{k=1}^\infty \frac{\tau^k}{k!}\hat{\textbf{a}}^{k-1}\cdot (\textbf{b} + \hat{ \textbf{a}} \cdot\textbf{z}_0)$$ \newline
+$\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order estimates the $RK4$-error!
+\end{frame}
+
+\begin{frame}
+\frametitle{Computing the $RK4$ error}
+\vspace{0cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/}
+				\caption{}
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{0cm}
+		\begin{center}
+			\begin{itemize}
+				\item
+			\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+
+%\begin{frame}
+%\frametitle{}
+%\vspace{0cm}
+%\begin{columns}[onlytextwidth]
+%	\begin{column}{0.5\textwidth}
+%		\begin{center}
+%			\begin{figure}
+%				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/}
+%				\caption{}
+%			\end{figure}
+%		\end{center}
+%	\end{column}
+%	\begin{column}{0.5\textwidth}
+%		\vspace{0cm}
+%		\begin{center}
+%			\begin{itemize}
+%				\item
+%			\end{itemize}
+%		\end{center}
+%	\end{column}
+%\end{columns}
+%\end{frame}
+
+
+%%\begin{frame}
+%%\frametitle{Error of the RK~4 method}
+%%\vspace{-0.5cm}
+%%\begin{itemize}
+%%	\item The relative integration error of a single step between cell boundaries strongly \textbf{scales %with the Larmor radius $\rho$}.
+%%	
+%%	\item The error is in the order of
+%%	\be{RK4estimation}
+%%	\frac{\delta R(\Delta\tau)}{a} \sim \frac{\rho^3}{q^4 R^3} \Delta \varphi^5,
+%%	\ee
+%%	with $R$, $a$, $q$ and $\Delta\varphi$ denoting major radius, plasma radius, safety factor and %toroidal cell length.
+%%	
+%%	\item 
+%%	The \textbf{error of the RK4 method} can be brought \textbf{below computer accuracy}.
+%%\end{itemize}
+%%\end{frame}
 
 \begin{frame}
 \frametitle{Poincare plots of guiding center orbits}
@@ -785,17 +1110,17 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 %\end{frame}
 %
 
-\section{Generating the field aligned grid}
+%\section{Generating the field aligned grid}
 
-\begin{frame}
-\frametitle{3D field aligned grid: tetrahedral cells}
-\vspace{-1.7cm}
-%\hspace{-7cm}
-	\begin{figure}
-		\hspace*{-1.65cm}\includegraphics[width=1.25\textwidth]{FIGURES/curvilinear_grid.eps}
-	\end{figure}
-
-\end{frame}
+%\begin{frame}
+%\frametitle{3D field aligned grid: tetrahedral cells}
+%\vspace{-1.7cm}
+%%\hspace{-7cm}
+%	\begin{figure}
+%		\hspace*{-1.65cm}\includegraphics[width=1.25\textwidth]{FIGURES/curvilinear_grid.eps}
+%	\end{figure}
+%
+%\end{frame}
 
 \section{Application: Mono-energetic radial transport coefficient}
 
