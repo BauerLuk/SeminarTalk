@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.11.21)  28 JUN 2020 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.11.21)  30 JUN 2020 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1326,7 +1326,7 @@ File: FIGURES/guiding_center_drawn2.pdf Graphic file (type pdf)
 <use FIGURES/guiding_center_drawn2.pdf>
 Package pdftex.def Info: FIGURES/guiding_center_drawn2.pdf  used on input line 
 270.
-(pdftex.def)             Requested size: 153.64493pt x 160.81494pt.
+(pdftex.def)             Requested size: 153.64493pt x 130.086pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 270.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <16> not available
@@ -1334,10 +1334,6 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <16> not available
 
 Overfull \hbox (19.91681pt too wide) in paragraph at lines 270--270
 [][][] 
- []
-
-
-Overfull \vbox (10.62576pt too high) detected at line 270
  []
 
 File: logo.pdf Graphic file (type pdf)
@@ -1746,22 +1742,22 @@ Package pdftex.def Info: merged_logos_m.png  used on input line 570.
 File: FIGURES/magnetic_field_labeled0.jpg Graphic file (type jpg)
 <use FIGURES/magnetic_field_labeled0.jpg>
 Package pdftex.def Info: FIGURES/magnetic_field_labeled0.jpg  used on input lin
-e 603.
+e 604.
 (pdftex.def)             Requested size: 153.64493pt x 115.3894pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <13> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 603.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 604.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 603--603
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 604--604
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 603.
+Package pdftex.def Info: logo.pdf  used on input line 604.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 603.
+Package pdftex.def Info: merged_logos_m.png  used on input line 604.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [22
 
@@ -1770,20 +1766,20 @@ Package pdftex.def Info: merged_logos_m.png  used on input line 603.
 File: FIGURES/magnetic_field_labeled.jpg Graphic file (type jpg)
 <use FIGURES/magnetic_field_labeled.jpg>
 Package pdftex.def Info: FIGURES/magnetic_field_labeled.jpg  used on input line
- 632.
+ 633.
 (pdftex.def)             Requested size: 153.64493pt x 115.3894pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 632--632
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 633--633
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 632.
+Package pdftex.def Info: logo.pdf  used on input line 633.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 632.
+Package pdftex.def Info: merged_logos_m.png  used on input line 633.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [23
 
@@ -1791,21 +1787,21 @@ Package pdftex.def Info: merged_logos_m.png  used on input line 632.
 <FIGURES/field_lines_torus.pdf, id=414, 867.24pt x 578.16pt>
 File: FIGURES/field_lines_torus.pdf Graphic file (type pdf)
 <use FIGURES/field_lines_torus.pdf>
-Package pdftex.def Info: FIGURES/field_lines_torus.pdf  used on input line 663.
+Package pdftex.def Info: FIGURES/field_lines_torus.pdf  used on input line 664.
 
 (pdftex.def)             Requested size: 153.64493pt x 102.42342pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 663--663
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 664--664
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 663.
+Package pdftex.def Info: logo.pdf  used on input line 664.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 663.
+Package pdftex.def Info: merged_logos_m.png  used on input line 664.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [24
 
@@ -1816,26 +1812,26 @@ pdfTeX warning: /usr/bin/pdflatex (file ./FIGURES/getOpoint.pdf): PDF inclusion
 <FIGURES/getOpoint.pdf, id=451, 597.50804pt x 845.0471pt>
 File: FIGURES/getOpoint.pdf Graphic file (type pdf)
 <use FIGURES/getOpoint.pdf>
-Package pdftex.def Info: FIGURES/getOpoint.pdf  used on input line 690.
+Package pdftex.def Info: FIGURES/getOpoint.pdf  used on input line 691.
 (pdftex.def)             Requested size: 92.18788pt x 134.51889pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.86258> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 690.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 691.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.30376> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 690.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 691.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5.93129> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 690.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 691.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 690--690
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 691--691
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 690.
+Package pdftex.def Info: logo.pdf  used on input line 691.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 690.
+Package pdftex.def Info: merged_logos_m.png  used on input line 691.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [25
 
@@ -1846,54 +1842,54 @@ pdfTeX warning: /usr/bin/pdflatex (file ./FIGURES/getXpoint.pdf): PDF inclusion
 <FIGURES/getXpoint.pdf, id=478, 597.50804pt x 845.0471pt>
 File: FIGURES/getXpoint.pdf Graphic file (type pdf)
 <use FIGURES/getXpoint.pdf>
-Package pdftex.def Info: FIGURES/getXpoint.pdf  used on input line 716.
+Package pdftex.def Info: FIGURES/getXpoint.pdf  used on input line 717.
 (pdftex.def)             Requested size: 92.18788pt x 151.5898pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 716--716
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 717--717
 [][][] 
  []
 
 
-Overfull \vbox (12.59412pt too high) detected at line 716
+Overfull \vbox (12.59412pt too high) detected at line 717
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 716.
+Package pdftex.def Info: logo.pdf  used on input line 717.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 716.
+Package pdftex.def Info: merged_logos_m.png  used on input line 717.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [26
 
  <./FIGURES/getXpoint.pdf>]
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 742--742
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 743--743
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 742.
+Package pdftex.def Info: logo.pdf  used on input line 743.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 742.
+Package pdftex.def Info: merged_logos_m.png  used on input line 743.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [27
 
 ]
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 767--767
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 768--768
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 767.
+Package pdftex.def Info: logo.pdf  used on input line 768.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 767.
+Package pdftex.def Info: merged_logos_m.png  used on input line 768.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [28
 
@@ -1907,13 +1903,13 @@ pdf>
 (epstopdf)                    size: 297707 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/lag_interp_plot1-e
 ps-converted-to.pdf FIGURES/lag_interp_plot1.eps>
-(epstopdf)             \includegraphics on input line 796.
+(epstopdf)             \includegraphics on input line 797.
 Package epstopdf Info: Output file is already uptodate.
 <FIGURES/lag_interp_plot1-eps-converted-to.pdf, id=518, 1927.2pt x 977.6525pt>
 File: FIGURES/lag_interp_plot1-eps-converted-to.pdf Graphic file (type pdf)
 <use FIGURES/lag_interp_plot1-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/lag_interp_plot1-eps-converted-to.pdf  used on
- input line 796.
+ input line 797.
 (pdftex.def)             Requested size: 153.64493pt x 77.93036pt.
 Package epstopdf Info: Source file: <FIGURES/lag_interp_plot2.eps>
 (epstopdf)                    date: 2020-06-28 15:20:52
@@ -1924,30 +1920,30 @@ pdf>
 (epstopdf)                    size: 130740 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/lag_interp_plot2-e
 ps-converted-to.pdf FIGURES/lag_interp_plot2.eps>
-(epstopdf)             \includegraphics on input line 796.
+(epstopdf)             \includegraphics on input line 797.
 Package epstopdf Info: Output file is already uptodate.
 <FIGURES/lag_interp_plot2-eps-converted-to.pdf, id=520, 1927.2pt x 977.6525pt>
 File: FIGURES/lag_interp_plot2-eps-converted-to.pdf Graphic file (type pdf)
 <use FIGURES/lag_interp_plot2-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/lag_interp_plot2-eps-converted-to.pdf  used on
- input line 796.
+ input line 797.
 (pdftex.def)             Requested size: 153.64493pt x 77.93036pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 796--796
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 797--797
 [][][] 
  []
 
 
-Overfull \vbox (9.0536pt too high) detected at line 796
+Overfull \vbox (9.0536pt too high) detected at line 797
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 796.
+Package pdftex.def Info: logo.pdf  used on input line 797.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 796.
+Package pdftex.def Info: merged_logos_m.png  used on input line 797.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [29
 
@@ -1963,7 +1959,7 @@ converted-to.pdf>
 (epstopdf)                    size: 8141 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/Delaunay_Connected
 _PrismFaces-eps-converted-to.pdf FIGURES/Delaunay_Connected_PrismFaces.eps>
-(epstopdf)             \includegraphics on input line 824.
+(epstopdf)             \includegraphics on input line 825.
 Package epstopdf Info: Output file is already uptodate.
 <FIGURES/Delaunay_Connected_PrismFaces-eps-converted-to.pdf, id=541, 414.54875p
 t x 321.2pt>
@@ -1971,20 +1967,20 @@ File: FIGURES/Delaunay_Connected_PrismFaces-eps-converted-to.pdf Graphic file (
 type pdf)
 <use FIGURES/Delaunay_Connected_PrismFaces-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/Delaunay_Connected_PrismFaces-eps-converted-to
-.pdf  used on input line 824.
+.pdf  used on input line 825.
 (pdftex.def)             Requested size: 153.64493pt x 137.98587pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 824--824
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 825--825
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 824.
+Package pdftex.def Info: logo.pdf  used on input line 825.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 824.
+Package pdftex.def Info: merged_logos_m.png  used on input line 825.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [30
 
@@ -1999,13 +1995,13 @@ converted-to.pdf>
 (epstopdf)                    size: 8141 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/Delaunay_Connected
 _PrismFaces-eps-converted-to.pdf FIGURES/Delaunay_Connected_PrismFaces.eps>
-(epstopdf)             \includegraphics on input line 852.
+(epstopdf)             \includegraphics on input line 853.
 Package epstopdf Info: Output file is already uptodate.
 File: FIGURES/Delaunay_Connected_PrismFaces-eps-converted-to.pdf Graphic file (
 type pdf)
 <use FIGURES/Delaunay_Connected_PrismFaces-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/Delaunay_Connected_PrismFaces-eps-converted-to
-.pdf  used on input line 852.
+.pdf  used on input line 853.
 (pdftex.def)             Requested size: 138.2795pt x 107.13828pt.
 Package epstopdf Info: Source file: <FIGURES/uvpq_Delaunay.eps>
 (epstopdf)                    date: 2020-06-21 13:37:22
@@ -2016,13 +2012,13 @@ Package epstopdf Info: Source file: <FIGURES/uvpq_Delaunay.eps>
 (epstopdf)                    size: 8367 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/uvpq_Delaunay-eps-
 converted-to.pdf FIGURES/uvpq_Delaunay.eps>
-(epstopdf)             \includegraphics on input line 852.
+(epstopdf)             \includegraphics on input line 853.
 Package epstopdf Info: Output file is already uptodate.
 <FIGURES/uvpq_Delaunay-eps-converted-to.pdf, id=564, 421.575pt x 316.18124pt>
 File: FIGURES/uvpq_Delaunay-eps-converted-to.pdf Graphic file (type pdf)
 <use FIGURES/uvpq_Delaunay-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/uvpq_Delaunay-eps-converted-to.pdf  used on in
-put line 852.
+put line 853.
 (pdftex.def)             Requested size: 115.23369pt x 86.42181pt.
 Package epstopdf Info: Source file: <FIGURES/2Prisms_comparison.eps>
 (epstopdf)                    date: 2020-06-21 13:37:22
@@ -2033,31 +2029,31 @@ o.pdf>
 (epstopdf)                    size: 8278 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/2Prisms_comparison
 -eps-converted-to.pdf FIGURES/2Prisms_comparison.eps>
-(epstopdf)             \includegraphics on input line 852.
+(epstopdf)             \includegraphics on input line 853.
 Package epstopdf Info: Output file is already uptodate.
 <FIGURES/2Prisms_comparison-eps-converted-to.pdf, id=566, 845.1575pt x 550.055p
 t>
 File: FIGURES/2Prisms_comparison-eps-converted-to.pdf Graphic file (type pdf)
 <use FIGURES/2Prisms_comparison-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/2Prisms_comparison-eps-converted-to.pdf  used 
-on input line 852.
+on input line 853.
 (pdftex.def)             Requested size: 153.64493pt x 99.99602pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 852--852
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 853--853
 [][][] 
  []
 
 
-Overfull \vbox (4.86229pt too high) detected at line 852
+Overfull \vbox (4.86229pt too high) detected at line 853
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 852.
+Package pdftex.def Info: logo.pdf  used on input line 853.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 852.
+Package pdftex.def Info: merged_logos_m.png  used on input line 853.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [31
 
@@ -2072,7 +2068,7 @@ ted-to.pdf>
 (epstopdf)                    size: 7474 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/Comparison_smin_an
 nulus-eps-converted-to.pdf FIGURES/Comparison_smin_annulus.eps>
-(epstopdf)             \includegraphics on input line 875.
+(epstopdf)             \includegraphics on input line 876.
 Package epstopdf Info: Output file is already uptodate.
 <FIGURES/Comparison_smin_annulus-eps-converted-to.pdf, id=604, 1445.4pt x 834.1
 1626pt>
@@ -2080,20 +2076,20 @@ File: FIGURES/Comparison_smin_annulus-eps-converted-to.pdf Graphic file (type p
 df)
 <use FIGURES/Comparison_smin_annulus-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/Comparison_smin_annulus-eps-converted-to.pdf  
-used on input line 875.
+used on input line 876.
 (pdftex.def)             Requested size: 307.28987pt x 165.70982pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 875--875
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 876--876
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 875.
+Package pdftex.def Info: logo.pdf  used on input line 876.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 875.
+Package pdftex.def Info: merged_logos_m.png  used on input line 876.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [32
 
@@ -2109,7 +2105,7 @@ s-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/Curvilinear_grid_a
 nd_tetrahedra-eps-converted-to.pdf FIGURES/Curvilinear_grid_and_tetrahedra.eps>
 
-(epstopdf)             \includegraphics on input line 900.
+(epstopdf)             \includegraphics on input line 901.
 Package epstopdf Info: Output file is already uptodate.
 <FIGURES/Curvilinear_grid_and_tetrahedra-eps-converted-to.pdf, id=615, 1927.2pt
  x 977.6525pt>
@@ -2117,93 +2113,148 @@ File: FIGURES/Curvilinear_grid_and_tetrahedra-eps-converted-to.pdf Graphic file
  (type pdf)
 <use FIGURES/Curvilinear_grid_and_tetrahedra-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/Curvilinear_grid_and_tetrahedra-eps-converted-
-to.pdf  used on input line 900.
+to.pdf  used on input line 901.
 (pdftex.def)             Requested size: 307.28987pt x 155.87564pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 900--900
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 901--901
 [][][] 
  []
 
 
-Overfull \vbox (4.40138pt too high) detected at line 900
+Overfull \vbox (4.40138pt too high) detected at line 901
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 900.
+Package pdftex.def Info: logo.pdf  used on input line 901.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 900.
+Package pdftex.def Info: merged_logos_m.png  used on input line 901.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [33
 
  <./FIGURES/Curvilinear_grid_and_tetrahedra-eps-converted-to.pdf>]
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 924--924
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 925--925
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 924.
+Package pdftex.def Info: logo.pdf  used on input line 925.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 924.
+Package pdftex.def Info: merged_logos_m.png  used on input line 925.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [34
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.09996> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 932.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 938.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <6.5> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 932.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 938.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 932--932
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 938--938
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 932.
+Package pdftex.def Info: logo.pdf  used on input line 938.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 932.
+Package pdftex.def Info: merged_logos_m.png  used on input line 938.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [35
 
 ]
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 943--943
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 953--953
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 943.
+Package pdftex.def Info: logo.pdf  used on input line 953.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 943.
+Package pdftex.def Info: merged_logos_m.png  used on input line 953.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [36
 
 ]
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 952--952
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 962--962
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 952.
+Package pdftex.def Info: logo.pdf  used on input line 962.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 952.
+Package pdftex.def Info: merged_logos_m.png  used on input line 962.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [37
 
 ]
+<FIGURES/RK4_alpha555_cyl.pdf, id=657, 1129.21875pt x 602.25pt>
+File: FIGURES/RK4_alpha555_cyl.pdf Graphic file (type pdf)
+<use FIGURES/RK4_alpha555_cyl.pdf>
+Package pdftex.def Info: FIGURES/RK4_alpha555_cyl.pdf  used on input line 990.
+(pdftex.def)             Requested size: 153.64493pt x 157.197pt.
+<FIGURES/RK4_alpha121212_cyl.pdf, id=659, 1129.21875pt x 602.25pt>
+File: FIGURES/RK4_alpha121212_cyl.pdf Graphic file (type pdf)
+<use FIGURES/RK4_alpha121212_cyl.pdf>
+Package pdftex.def Info: FIGURES/RK4_alpha121212_cyl.pdf  used on input line 99
+0.
+(pdftex.def)             Requested size: 153.64493pt x 157.197pt.
+
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 990--990
+[][][] 
+ []
+
+File: logo.pdf Graphic file (type pdf)
+<use logo.pdf>
+Package pdftex.def Info: logo.pdf  used on input line 990.
+(pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
+File: merged_logos_m.png Graphic file (type png)
+<use merged_logos_m.png>
+Package pdftex.def Info: merged_logos_m.png  used on input line 990.
+(pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
+[38
+
+ <./FIGURES/RK4_alpha555_cyl.pdf> <./FIGURES/RK4_alpha121212_cyl.pdf>]
+<FIGURES/RK4_alpha555_SFC.pdf, id=709, 1129.21875pt x 602.25pt>
+File: FIGURES/RK4_alpha555_SFC.pdf Graphic file (type pdf)
+<use FIGURES/RK4_alpha555_SFC.pdf>
+Package pdftex.def Info: FIGURES/RK4_alpha555_SFC.pdf  used on input line 1018.
+
+(pdftex.def)             Requested size: 153.64493pt x 157.197pt.
+<FIGURES/RK4_alpha121212_SFC.pdf, id=711, 1129.21875pt x 602.25pt>
+File: FIGURES/RK4_alpha121212_SFC.pdf Graphic file (type pdf)
+<use FIGURES/RK4_alpha121212_SFC.pdf>
+Package pdftex.def Info: FIGURES/RK4_alpha121212_SFC.pdf  used on input line 10
+18.
+(pdftex.def)             Requested size: 153.64493pt x 157.197pt.
+
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 1018--1018
+[][][] 
+ []
+
+File: logo.pdf Graphic file (type pdf)
+<use logo.pdf>
+Package pdftex.def Info: logo.pdf  used on input line 1018.
+(pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
+File: merged_logos_m.png Graphic file (type png)
+<use merged_logos_m.png>
+Package pdftex.def Info: merged_logos_m.png  used on input line 1018.
+(pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
+[39
+
+ <./FIGURES/RK4_alpha555_SFC.pdf> <./FIGURES/RK4_alpha121212_SFC.pdf>]
 Package epstopdf Info: Source file: <FIGURES/orbit_plot.eps>
 (epstopdf)                    date: 2020-06-21 13:37:46
 (epstopdf)                    size: 3341172 bytes
@@ -2212,28 +2263,28 @@ Package epstopdf Info: Source file: <FIGURES/orbit_plot.eps>
 (epstopdf)                    size: 2323819 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/orbit_plot-eps-con
 verted-to.pdf FIGURES/orbit_plot.eps>
-(epstopdf)             \includegraphics on input line 1011.
+(epstopdf)             \includegraphics on input line 1074.
 Package epstopdf Info: Output file is already uptodate.
-<FIGURES/orbit_plot-eps-converted-to.pdf, id=657, 767.86874pt x 372.39125pt>
+<FIGURES/orbit_plot-eps-converted-to.pdf, id=761, 767.86874pt x 372.39125pt>
 File: FIGURES/orbit_plot-eps-converted-to.pdf Graphic file (type pdf)
 <use FIGURES/orbit_plot-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/orbit_plot-eps-converted-to.pdf  used on input
- line 1011.
+ line 1074.
 (pdftex.def)             Requested size: 307.28987pt x 149.02773pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 1011--1011
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 1074--1074
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 1011.
+Package pdftex.def Info: logo.pdf  used on input line 1074.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 1011.
+Package pdftex.def Info: merged_logos_m.png  used on input line 1074.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
-[38
+[40
 
  <./FIGURES/orbit_plot-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <FIGURES/axissymetric_noise.eps>
@@ -2245,133 +2296,128 @@ o.pdf>
 (epstopdf)                    size: 166923 bytes
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/axissymetric_noise
 -eps-converted-to.pdf FIGURES/axissymetric_noise.eps>
-(epstopdf)             \includegraphics on input line 1025.
+(epstopdf)             \includegraphics on input line 1088.
 Package epstopdf Info: Output file is already uptodate.
-<FIGURES/axissymetric_noise-eps-converted-to.pdf, id=669, 748.7975pt x 379.4175
+<FIGURES/axissymetric_noise-eps-converted-to.pdf, id=773, 748.7975pt x 379.4175
 pt>
 File: FIGURES/axissymetric_noise-eps-converted-to.pdf Graphic file (type pdf)
 <use FIGURES/axissymetric_noise-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/axissymetric_noise-eps-converted-to.pdf  used 
-on input line 1025.
+on input line 1088.
 (pdftex.def)             Requested size: 307.28987pt x 155.70691pt.
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 1025--1025
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 1088--1088
 [][][] 
  []
 
 
-Overfull \vbox (8.62639pt too high) detected at line 1025
+Overfull \vbox (8.62639pt too high) detected at line 1088
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 1025.
+Package pdftex.def Info: logo.pdf  used on input line 1088.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 1025.
+Package pdftex.def Info: merged_logos_m.png  used on input line 1088.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
-[39
+[41
 
  <./FIGURES/axissymetric_noise-eps-converted-to.pdf>]
 
-Package hyperref Warning: Ignoring empty anchor on input line 1120.
+Package hyperref Warning: Ignoring empty anchor on input line 1183.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 1120.
+Package hyperref Warning: Ignoring empty anchor on input line 1183.
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1120--1120
+Underfull \hbox (badness 1043) in paragraph at lines 1183--1183
 []\OT1/phv/m/n/16 Application: Mono-energetic ra-di-al trans-port
  []
 
 
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 1120--1120
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 1183--1183
 [][][] 
  []
 
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 1120.
+Package pdftex.def Info: logo.pdf  used on input line 1183.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 1120.
-(pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
-[40
-
-]
-Package epstopdf Info: Source file: <FIGURES/transport_coefficient.eps>
-(epstopdf)                    date: 2020-06-21 13:37:47
-(epstopdf)                    size: 88015 bytes
-(epstopdf)             Output file: <FIGURES/transport_coefficient-eps-converte
-d-to.pdf>
-(epstopdf)                    date: 2020-06-21 13:37:47
-(epstopdf)                    size: 35161 bytes
-(epstopdf)             Command: <repstopdf --outfile=FIGURES/transport_coeffici
-ent-eps-converted-to.pdf FIGURES/transport_coefficient.eps>
-(epstopdf)             \includegraphics on input line 1148.
-Package epstopdf Info: Output file is already uptodate.
-<FIGURES/transport_coefficient-eps-converted-to.pdf, id=688, 478.78876pt x 378.
-41376pt>
-File: FIGURES/transport_coefficient-eps-converted-to.pdf Graphic file (type pdf
-)
-<use FIGURES/transport_coefficient-eps-converted-to.pdf>
-Package pdftex.def Info: FIGURES/transport_coefficient-eps-converted-to.pdf  us
-ed on input line 1148.
-(pdftex.def)             Requested size: 245.83282pt x 194.29341pt.
-
-Overfull \hbox (10.29437pt too wide) in alignment at lines 1148--1148
- [][][] []
- []
-
-
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 1148--1148
-[][][] 
- []
-
-File: logo.pdf Graphic file (type pdf)
-<use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 1148.
-(pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
-File: merged_logos_m.png Graphic file (type png)
-<use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 1148.
-(pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
-[41
-
- <./FIGURES/transport_coefficient-eps-converted-to.pdf>]
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <13> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 1166.
-
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <13> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 1166.
-
-
-Overfull \hbox (19.91681pt too wide) in paragraph at lines 1166--1166
-[][][] 
- []
-
-File: logo.pdf Graphic file (type pdf)
-<use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 1166.
-(pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
-File: merged_logos_m.png Graphic file (type png)
-<use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 1166.
+Package pdftex.def Info: merged_logos_m.png  used on input line 1183.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
 [42
 
 ]
+Package epstopdf Info: Source file: <FIGURES/transport_coefficient_electrons_di
+ons.eps>
+(epstopdf)                    date: 2020-06-23 18:00:36
+(epstopdf)                    size: 228875 bytes
+(epstopdf)             Output file: <FIGURES/transport_coefficient_electrons_di
+ons-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-06-29 13:20:37
+(epstopdf)                    size: 94258 bytes
+(epstopdf)             Command: <repstopdf --outfile=FIGURES/transport_coeffici
+ent_electrons_dions-eps-converted-to.pdf FIGURES/transport_coefficient_electron
+s_dions.eps>
+(epstopdf)             \includegraphics on input line 1213.
+Package epstopdf Info: Output file is already uptodate.
+<FIGURES/transport_coefficient_electrons_dions-eps-converted-to.pdf, id=793, 13
+18.9275pt x 873.2625pt>
+File: FIGURES/transport_coefficient_electrons_dions-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use FIGURES/transport_coefficient_electrons_dions-eps-converted-to.pdf>
+Package pdftex.def Info: FIGURES/transport_coefficient_electrons_dions-eps-conv
+erted-to.pdf  used on input line 1213.
+(pdftex.def)             Requested size: 245.83282pt x 162.7636pt.
+
+Overfull \hbox (10.29437pt too wide) in alignment at lines 1213--1213
+ [][][] []
+ []
+
+
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 1213--1213
+[][][] 
+ []
+
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
-Package pdftex.def Info: logo.pdf  used on input line 1182.
+Package pdftex.def Info: logo.pdf  used on input line 1213.
 (pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
 File: merged_logos_m.png Graphic file (type png)
 <use merged_logos_m.png>
-Package pdftex.def Info: merged_logos_m.png  used on input line 1182.
+Package pdftex.def Info: merged_logos_m.png  used on input line 1213.
 (pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
- [43
+[43
+
+ <./FIGURES/transport_coefficient_electrons_dions-eps-converted-to.pdf>]
+Overfull \hbox (19.91681pt too wide) in paragraph at lines 1231--1231
+[][][] 
+ []
+
+File: logo.pdf Graphic file (type pdf)
+<use logo.pdf>
+Package pdftex.def Info: logo.pdf  used on input line 1231.
+(pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
+File: merged_logos_m.png Graphic file (type png)
+<use merged_logos_m.png>
+Package pdftex.def Info: merged_logos_m.png  used on input line 1231.
+(pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
+[44
+
+]
+File: logo.pdf Graphic file (type pdf)
+<use logo.pdf>
+Package pdftex.def Info: logo.pdf  used on input line 1247.
+(pdftex.def)             Requested size: 34.42784pt x 13.1006pt.
+File: merged_logos_m.png Graphic file (type png)
+<use merged_logos_m.png>
+Package pdftex.def Info: merged_logos_m.png  used on input line 1247.
+(pdftex.def)             Requested size: 83.6252pt x 14.22636pt.
+ [45
 
 ]
 \tf@nav=\write6
@@ -2383,11 +2429,11 @@ Package pdftex.def Info: merged_logos_m.png  used on input line 1182.
 \tf@snm=\write8
 \openout8 = `Lukas_Bauer_SeminarTalk.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1252.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1252.
  (./Lukas_Bauer_SeminarTalk.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1252.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1252.
 
 Package rerunfilecheck Info: File `Lukas_Bauer_SeminarTalk.out' has not changed
 .
@@ -2399,11 +2445,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 24473 strings out of 494435
- 473443 string characters out of 6173462
- 577486 words of memory out of 5000000
- 27449 multiletter control sequences out of 15000+600000
- 85243 words of font info for 170 fonts, out of 8000000 for 9000
+ 24517 strings out of 494435
+ 474732 string characters out of 6173462
+ 577876 words of memory out of 5000000
+ 27487 multiletter control sequences out of 15000+600000
+ 83484 words of font info for 168 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  63i,22n,71p,966b,1728s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -2426,13 +2472,12 @@ blic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmtt8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/helvetic/uhvro8a.pfb>
-Output written on Lukas_Bauer_SeminarTalk.pdf (43 pages, 10430521 bytes).
+/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Lukas_Bauer_SeminarTalk.pdf (45 pages, 10681469 bytes).
 PDF statistics:
- 813 PDF objects out of 1000 (max. 8388607)
- 576 compressed objects within 6 object streams
- 103 named destinations out of 1000 (max. 500000)
- 462 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 914 PDF objects out of 1000 (max. 8388607)
+ 655 compressed objects within 7 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 506 words of extra memory for PDF output out of 10000 (max. 10000000)
 

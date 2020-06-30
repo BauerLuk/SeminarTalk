@@ -255,7 +255,7 @@
 	\begin{column}{0.5\textwidth}
 
 		\begin{center}
-	\includegraphics[trim={5cm 10cm 1cm 4cm},clip,width=1\textwidth]{FIGURES/guiding_center_drawn2.pdf}
+	\includegraphics[trim={5cm 13cm 1cm 4cm},clip,width=1\textwidth]{FIGURES/guiding_center_drawn2.pdf}
 \end{center}
 \end{column}
 	\begin{column}{0.50\textwidth}
@@ -319,7 +319,7 @@ $\rightarrow$ Global Monte Carlo modelling
 %\section{3D Geometric Integrator}
 
 \begin{frame}
-\frametitle{3D geometric integrator properties}
+\frametitle{\textbf{Gorilla} 3D geometric integrator properties}
 \vspace{-0.5cm}
 \begin{itemize}
 	\item \textbf{Physically correct long time orbit dynamics}
@@ -396,7 +396,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 
 \section{Requirements to the grid}
 \begin{frame}
-\frametitle{Grid must consist of tetrahedra due to linearization of field quantities}
+\frametitle{Requirements to grid: Tetrahedral cells}
 \begin{itemize}
 	\item linear system of equations for $\nabla f = const.$
  \begin{equation}
@@ -569,11 +569,12 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 \end{columns}
 \end{frame}
 
-\begin{frame}
+\begin{frame}[noframenumbering]
 \frametitle{Idea: symmetry flux coordinates}
 \vspace{-1 cm}
 \begin{columns}[onlytextwidth]
 	\begin{column}{0.5\textwidth}
+	
 		\begin{center}
 			\begin{figure}
 				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/magnetic_field_labeled0.jpg}
@@ -925,19 +926,28 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 
 \begin{frame}
 \frametitle{Analytical solution to ODE set}
-\vspace{0cm}
-$x^i(\tau) =   \psi^i_l  \left(\bar{\psi}^l_k x^k_{(0)}e^{\lambda^l \tau} + \frac{\bar{\psi}^l_k D^k}{a-\lambda^l}(e^{a\tau}-e^{\lambda^l\tau}) + \right.$\\
+\vspace{-1cm}
+\begin{itemize}
+	\item get homogeneous solution \newline
+	\item get particular solution from variation of constants\newline
+\end{itemize}
+
+$\rightarrow x^i(\tau) =   \psi^i_l  \left(\bar{\psi}^l_k x^k_{(0)}e^{\lambda^l \tau} + \frac{\bar{\psi}^l_k D^k}{a-\lambda^l}(e^{a\tau}-e^{\lambda^l\tau}) + \right.$\\
 \vspace{0.5cm}
 \hspace{1.5cm}$\left. \frac{\bar{\psi}^l_k F^k}{2a-\lambda^l}(e^{2a\tau}-e^{\lambda^l\tau})-\frac{\bar{\psi}^l_k E^k}{\lambda^l}(1-e^{\lambda^l\tau}) \right)$
 \end{frame}
 
-\begin{frame}
+\begin{frame}[noframenumbering]
 \frametitle{Analytical solution to ODE set}
-\vspace{0cm}
-$x^i(\tau) =   \psi^i_l  \left(\bar{\psi}^l_k x^k_{(0)}e^{\lambda^l \tau} + \frac{\bar{\psi}^l_k D^k}{a-\lambda^l}(e^{a\tau}-e^{\lambda^l\tau}) + \right.$\\
+\vspace{-1cm}
+\begin{itemize}
+	\item get homogeneous solution \newline
+	\item get particular solution from variation of constants\newline
+\end{itemize}
+
+$\rightarrow x^i(\tau) =   \psi^i_l  \left(\bar{\psi}^l_k x^k_{(0)}e^{\lambda^l \tau} + \frac{\bar{\psi}^l_k D^k}{a-\lambda^l}(e^{a\tau}-e^{\lambda^l\tau}) + \right.$\\
 \vspace{0.5cm}
-\hspace{1.5cm}$\left. \frac{\bar{\psi}^l_k F^k}{2a-\lambda^l}(e^{2a\tau}-e^{\lambda^l\tau})-\frac{\bar{\psi}^l_k E^k}{\lambda^l}(1-e^{\lambda^l\tau}) \right)$
-\vspace{1cm}
+\hspace{1.5cm}$\left. \frac{\bar{\psi}^l_k F^k}{2a-\lambda^l}(e^{2a\tau}-e^{\lambda^l\tau})-\frac{\bar{\psi}^l_k E^k}{\lambda^l}(1-e^{\lambda^l\tau}) \right)$ \newline
 
 Unfortunately, due to numerical inaccuracies and high computational cost, this is not useful!
 \end{frame}
@@ -952,28 +962,60 @@ $\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order 
 \end{frame}
 
 \begin{frame}
-\frametitle{Computing the $RK4$ error}
-\vspace{0cm}
+\frametitle{Evaluating the $RK4$ error - CCG}
+\vspace{-1.5cm}
 \begin{columns}[onlytextwidth]
 	\begin{column}{0.5\textwidth}
 		\begin{center}
 			\begin{figure}
-				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/}
-				\caption{}
+				\includegraphics[trim={9cm 0cm 10cm 0cm},clip,width=1\textwidth]{FIGURES/RK4_alpha555_cyl.pdf}
+				\caption{$(N_R,N_\varphi,N_Z)= 5\times5\times5$}
+
 			\end{figure}
 		\end{center}
 	\end{column}
 	\begin{column}{0.5\textwidth}
 		\vspace{0cm}
 		\begin{center}
-			\begin{itemize}
-				\item
-			\end{itemize}
+					\begin{figure}
+					\includegraphics[trim={9cm 0cm 10cm 0cm},clip,width=1\textwidth]{FIGURES/RK4_alpha121212_cyl.pdf}
+				\caption{$(N_R,N_\varphi,N_Z)= 12\times12\times12$}
+							\end{figure}
+%			\begin{itemize}
+%				\item
+%			\end{itemize}
 		\end{center}
 	\end{column}
 \end{columns}
 \end{frame}
 
+\begin{frame}
+\frametitle{Evaluating the $RK4$ error - FAG}
+\vspace{-1.5cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.5\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={9cm 0cm 10cm 0cm},clip,width=1\textwidth]{FIGURES/RK4_alpha555_SFC.pdf}
+				\caption{$(N_s,N_\vartheta,N_\varphi)= 5\times5\times5$}
+				
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\vspace{0cm}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={9cm 0cm 10cm 0cm},clip,width=1\textwidth]{FIGURES/RK4_alpha121212_SFC.pdf}
+				\caption{$(N_s,N_\vartheta,N_\varphi)= 12\times12\times12$}
+			\end{figure}
+			%			\begin{itemize}
+			%				\item
+			%			\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
 
 %\begin{frame}
 %\frametitle{}
@@ -1151,7 +1193,8 @@ $\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order 
 	\begin{column}{0.8\textwidth}
 		\begin{figure}
 			\vspace*{-1.05cm}
-\hspace*{-0.5cm}\includegraphics[width=1\textwidth]{FIGURES/transport_coefficient.eps}
+\hspace*{-0.5cm}\includegraphics[width=1\textwidth]{FIGURES/transport_coefficient_electrons_dions.eps}
+
 \end{figure}
 \end{column}
 \hspace*{-1cm}
@@ -1165,7 +1208,8 @@ $\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order 
 	
 	\end{column}
 \end{columns}
-
+Mono-energetic radial diffusion coefficient,\newline
+$E_{kin}=$ 3 keV, $s_0 = 0.6$
 \end{frame}
 
 
@@ -1173,17 +1217,17 @@ $\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order 
 \begin{frame}
 \frametitle{Conclusion}
 \vspace*{-0.5cm}
-\textit{\textbf{Advantages:}}\\
+%\textit{\textbf{Advantages:}}\\
 \begin{itemize}
 \item Physically correct long time orbit dynamics
 \item Particle coordinates and velocities are implicitly given at cell boundaries.
 \item Low sensitivity to noise in electromagnetic fields
 \item Computational efficiency
 \end{itemize}
-\textit{\textbf{Limitations:}}
-\begin{itemize}
-\item Artificial numerical diffusion is induced by piecewise linear field quantities.
-\end{itemize}
+%\textit{\textbf{Limitations:}}
+%\begin{itemize}
+%\item Artificial numerical diffusion is induced by piecewise linear field quantities.
+%\end{itemize}
 \end{frame}
 
 \section{Conclusion}
