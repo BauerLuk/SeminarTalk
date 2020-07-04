@@ -6,7 +6,7 @@ P4 = 1 * [sin(pi/6),0,2*cos(pi/6)/3];
 P5 = 1 * [-sin(pi/6),0,2*cos(pi/6)/3];
 
 V1 = 0;
-V2 = 0.55;
+V2 = 0.35;
 V3 = 0.4;
 V4 = 0.15;
 V5 = 0.15;
@@ -18,8 +18,9 @@ g2 = [P1;P2;P3;P5]\[V1;V2;V3;V5]
 
 
 figure(1)
-plot3([P1(1);P2(1);P3(1);P1(1)],[P1(2);P2(2);P3(2);P1(2)],[P1(3);P2(3);P3(3);P1(3)],'.-k','MarkerSize',30,'LineWidth',2)
+plot3([P1(1);P2(1)],[P1(2);P2(2)],[P1(3);P2(3)],'--k','MarkerSize',30,'LineWidth',2)
 hold on
+plot3([P2(1);P3(1);P1(1)],[P2(2);P3(2);P1(2)],[P2(3);P3(3);P1(3)],'.-k','MarkerSize',30,'LineWidth',2)
 plot3([P1(1);P4(1)],[P1(2);P4(2)],[P1(3);P4(3)],'.-k','MarkerSize',30,'LineWidth',2)
 plot3([P2(1);P4(1)],[P2(2);P4(2)],[P2(3);P4(3)],'.-k','MarkerSize',30,'LineWidth',2)
 plot3([P3(1);P4(1)],[P3(2);P4(2)],[P3(3);P4(3)],'.-k','MarkerSize',30,'LineWidth',2)

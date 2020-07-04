@@ -89,8 +89,8 @@
 
 %% Titelblatt-Einstellungen
 \title[]
-{Geometric Integration of \\Guiding Center Orbits in Magnetically Confined Plasmas and Applications}
-\author[L.~Bauer]{\scriptsize Lukas Bauer, BSc. \\
+{Geometric integration of guiding-center orbits in piecewise linear toroidal fields}
+\author[L.~Bauer]{\scriptsize Lukas Bauer\\
 	Institute of Theoretical and Computational Physics - Plasma Physics\\Group of Prof. W. Kernbichler (Graz University of Technology)
 }
 \date{10. July 2020, Seminar Presentation, Graz} % \today für heutiges Datum verwenden
@@ -175,7 +175,7 @@
 		\vspace{0 cm}
 		\begin{center}
 			\begin{itemize}
-				\item Heating of D-T plasma to $\sim10^7~\text{K}$ in toroidal magnetic configuration
+				\item Heating of D-T plasma to $\sim10^8~\text{K}$ in toroidal magnetic configuration
 				\item Self sustained reaction according to the Lawson Criterion for the triple product $n\tau T > C$
 				\item Two main types of devices: Tokamaks and Stellarators
 			\end{itemize}
@@ -207,7 +207,6 @@
 			\item Kinetic Approach
 				\begin{itemize}
 						\item description of plasma through discrete particle distribution functions $f(\vec{x},\vec{v})$ of phase space
-						\item coupling Vlasov + Maxwells equations
 				\end{itemize}
 			\item Gyro-kinetic Approach
 				\begin{itemize}
@@ -410,10 +409,12 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 
 \begin{frame}
 \frametitle{Linearization leads to continuous $f$}
+\vspace{-1cm}
 \begin{columns}[onlytextwidth]
 	\begin{column}{0.45\textwidth}
+	\vspace{0.45cm}
 		\begin{center}
-		\includegraphics[trim={0 0 0 0.5cm},clip,width=1\textwidth]{FIGURES/linearization.eps}
+		\includegraphics[trim={10 3 2 1.5cm},clip,width=1.1\textwidth]{FIGURES/linearization.eps}
 	\end{center}
 	\end{column}
 	\begin{column}{0.55\textwidth}
@@ -434,7 +435,8 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 \begin{columns}[onlytextwidth]
 	\begin{column}{0.45\textwidth}
 		\begin{center}
-\centering \includegraphics[trim={4 0 0 0.5cm},clip,width=1\textwidth]{FIGURES/HangingNode.eps}
+		\vspace{-1cm}
+\centering \includegraphics[trim={4 1 1 0.5cm},clip,width=1.1\textwidth]{FIGURES/HangingNode.eps}
 \end{center}
 \end{column}
 	\begin{column}{0.55\textwidth}
@@ -518,7 +520,33 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 		\begin{center}
 			\begin{figure}
 				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/field_lines_rect_grid2.eps}
-				\caption{}
+				\caption{Passing orbit in coarse CCG}
+			\end{figure}
+		\end{center}
+	\end{column}
+	\begin{column}{0.45\textwidth}
+		\vspace{0 cm}
+		\begin{center}
+			\begin{itemize}
+				\item intersections of orbits with $\varphi=0$ plane are marked with points
+				\item points lie on well-defined contours
+				\item polygonal shape due to linearization 
+			\end{itemize}
+		\end{center}
+	\end{column}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Poincaré plots of guiding center orbits}
+\vspace{-0.75 cm}
+\begin{columns}[onlytextwidth]
+	\begin{column}{0.55\textwidth}
+		\begin{center}
+			\begin{figure}
+				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/field_lines_fine_rect_grid.eps}
+				\caption{Passing orbit in finer CCG}
 			\end{figure}
 		\end{center}
 	\end{column}
@@ -652,10 +680,10 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 				\item Field line equations: $\frac{\textrm{d}R}{\textrm{d}\varphi} = \frac{B^R}{B^\varphi}, \hspace{0.1cm} \frac{\textrm{d}Z}{\textrm{d}\varphi} = \frac{B^Z}{B^\varphi}
 				$
 				\vspace{1cm}
-				\item Safety factor: \newline $q_s = \frac{B^\varphi}{B^\vartheta},~\textrm{d}\varphi= q_s\textrm{d}\vartheta
+				\item Safety factor: \newline $q = \frac{B^\varphi}{B^\vartheta},~\textrm{d}\varphi= q\textrm{d}\vartheta
 				$
 					\begin{itemize}
-					\item if $q_s$ is irrational, the field line forms a flux surface
+					\item if $q$ is irrational, the field line forms a flux surface
 				\end{itemize}
 			\end{itemize}
 		\end{center}
@@ -716,85 +744,85 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 \end{columns}
 \end{frame}
 
-\begin{frame}
-\frametitle{Massive computation of field lines}
-\vspace{0 cm}
+%\begin{frame}
+%\frametitle{Massive computation of field lines}
+%\vspace{0 cm}
+%%\begin{columns}[onlytextwidth]
+%%	\begin{column}{0.5\textwidth}
+%%		\begin{center}
+%%			\begin{figure}
+%%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/}
+%%				\caption{}
+%%			\end{figure}
+%%		\end{center}
+%%	\end{column}
+%%	\begin{column}{0.5\textwidth}
+%		\vspace{-0.5 cm}
+%		\begin{center}
+%			\begin{itemize}
+%				\item parametrize line segment from $O$-point to $X$-point with 500 equidistant starting points $\rightarrow$ $\vartheta=0$-contour
+%				\item integrate each line for one poloidal turn $\rightarrow$ compute $q_s$
+%				\item integrate each line for one poloidal turn over 500 equidistant steps $\rightarrow$ save $(R,Z)$ together with poloidal and normalized toroidal flux $s$ and poloidal angle $\vartheta = 2\pi i/500$ with current step $i$
+%				\item due to axisymmetry $\varphi$ is equal to the cyl. coordinates toroidal angle
+%			\end{itemize}
+%		\end{center}
+%%	\end{column}
+%%\end{columns}
+%\end{frame}
+
+%\begin{frame}
+%\frametitle{Interpolation of $(R,Z)$ from $(s,\vartheta)$}
+%\vspace{0 cm}
+%%\begin{columns}[onlytextwidth]
+%%	\begin{column}{0.5\textwidth}
+%%		\begin{center}
+%%			\begin{figure}
+%%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/}
+%%				\caption{}
+%%			\end{figure}
+%%		\end{center}
+%%	\end{column}
+%%	\begin{column}{0.5\textwidth}
+%		\vspace{0 cm}
+%		\begin{center}
+%			\begin{itemize}
+%				\item compute periodic spline coefficients in $\vartheta$ for each saved field line, $s=const.$ along a field line
+%				\item for a given value of $\vartheta$, evaluate interpolated values of $R,Z$ for field lines which are adjacent to $s$
+%				\item use Lagrange polynomial interpolation to compute $R(s,\vartheta),~ Z(s,\vartheta)$ 
+%			\end{itemize}
+%		\end{center}
+%%	\end{column}
+%%\end{columns}
+%\end{frame}
+
+%\begin{frame}
+%\frametitle{Lagrange polynomial interpolation}
+%\vspace{-1.5cm}
 %\begin{columns}[onlytextwidth]
 %	\begin{column}{0.5\textwidth}
 %		\begin{center}
 %			\begin{figure}
-%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/}
-%				\caption{}
-%			\end{figure}
+%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/lag_interp_plot1.eps}
+%					\vspace{-0.5cm}
+%					\caption{Depiction of $L_k(z)$}
+%										\vspace{-0.35cm}
+%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/lag_interp_plot2.eps}
+%					\caption{Depiction of $P_4(z)$}
+%		\end{figure}
 %		\end{center}
 %	\end{column}
 %	\begin{column}{0.5\textwidth}
-		\vspace{-0.5 cm}
-		\begin{center}
-			\begin{itemize}
-				\item parametrize line segment from $O$-point to $X$-point with 500 equidistant starting points $\rightarrow$ $\vartheta=0$-contour
-				\item integrate each line for one poloidal turn $\rightarrow$ compute $q_s$
-				\item integrate each line for one poloidal turn over 500 equidistant steps $\rightarrow$ save $(R,Z)$ together with poloidal and normalized toroidal flux $s$ and poloidal angle $\vartheta = i/500$ with current step $i$
-				\item due to axisymmetry $\varphi$ is equal to the cyl. coordinates toroidal angle
-			\end{itemize}
-		\end{center}
-%	\end{column}
-%\end{columns}
-\end{frame}
-
-\begin{frame}
-\frametitle{Interpolation of $(R,Z)$ from $(s,\vartheta)$}
-\vspace{0 cm}
-%\begin{columns}[onlytextwidth]
-%	\begin{column}{0.5\textwidth}
+%		\vspace{1.5cm}
 %		\begin{center}
-%			\begin{figure}
-%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/}
-%				\caption{}
-%			\end{figure}
+%			\begin{itemize}
+%				\item $P_n(z) = \sum_{k=0}^{n} L_k(z)f_k $
+%				\vspace{0.5cm}
+%				\item $L_k(z) =  \prod_{j=0, j \neq k}^{n} \frac{z-z_j}{z_k-z_j}$
+%			\end{itemize}
 %		\end{center}
 %	\end{column}
-%	\begin{column}{0.5\textwidth}
-		\vspace{0 cm}
-		\begin{center}
-			\begin{itemize}
-				\item compute periodic spline coefficients in $\vartheta$ for each saved field line, $s=const.$ along a field line
-				\item for a given value of $\vartheta$, evaluate interpolated values of $R,Z$ for field lines which are adjacent to $s$
-				\item use Lagrange polynomial interpolation to compute $R(s,\vartheta),~ Z(s,\vartheta)$ 
-			\end{itemize}
-		\end{center}
-%	\end{column}
 %\end{columns}
-\end{frame}
-
-\begin{frame}
-\frametitle{Lagrange polynomial interpolation}
-\vspace{-1.5cm}
-\begin{columns}[onlytextwidth]
-	\begin{column}{0.5\textwidth}
-		\begin{center}
-			\begin{figure}
-				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/lag_interp_plot1.eps}
-					\vspace{-0.5cm}
-					\caption{Depiction of $L_k(z)$}
-										\vspace{-0.35cm}
-				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/lag_interp_plot2.eps}
-					\caption{Depiction of $P_4(z)$}
-		\end{figure}
-		\end{center}
-	\end{column}
-	\begin{column}{0.5\textwidth}
-		\vspace{1.5cm}
-		\begin{center}
-			\begin{itemize}
-				\item $P_n(z) = \sum_{k=0}^{n} L_k(z)f_k $
-				\vspace{0.5cm}
-				\item $L_k(z) =  \prod_{j=0, j \neq k}^{n} \frac{z-z_j}{z_k-z_j}$
-			\end{itemize}
-		\end{center}
-	\end{column}
-\end{columns}
-\end{frame}
+%\end{frame}
 
 \begin{frame}
 \frametitle{Generate grid vertices}
@@ -803,7 +831,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 	\begin{column}{0.5\textwidth}
 		\begin{center}
 			\begin{figure}
-				\includegraphics[trim={1cm 0cm 1cm 0cm},clip,width=1\textwidth]{FIGURES/Delaunay_Connected_PrismFaces.eps}
+				\includegraphics[trim={1cm 0cm 1cm 0cm},clip,width=1.0\textwidth]{FIGURES/Delaunay_Connected_PrismFaces.eps}
 				\caption{2D grid vertices}
 			\end{figure}
 		\end{center}
@@ -854,12 +882,13 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 
 \begin{frame}
 \frametitle{One compromise: there is a hole}
-\vspace{-1cm}
+\vspace{-1.2cm}
 %\begin{columns}[onlytextwidth]
 %	\begin{column}{0.5\textwidth}
 		\begin{center}
 			\begin{figure}
-				\includegraphics[trim={1cm 2cm 1cm 1cm},clip,width=1\textwidth]{FIGURES/Comparison_smin_annulus.eps}
+				\includegraphics[trim={1cm 2cm 1cm 2cm},clip,width=1\textwidth]{FIGURES/Comparison_smin_annulus.eps}
+%				\vspace{-0.25cm}
 				\caption{Center region of the grid with annulus}
 			\end{figure}
 		\end{center}
@@ -884,7 +913,7 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 %	\begin{column}{0.5\textwidth}
 		\begin{center}
 			\begin{figure}
-				\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/Curvilinear_grid_and_tetrahedra.eps}
+				\includegraphics[trim={0cm 2cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/curvilinear_grid_02.eps}
 				\caption{Poloidal cross-section and grid elements of field aligned grid in real space}
 			\end{figure}
 		\end{center}
@@ -1064,12 +1093,12 @@ $\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order 
 \vspace{-1.1cm}
 %\hspace{-7cm}
 \begin{figure}
-	\hspace*{-0.9cm}\includegraphics[width=1.0\textwidth]{FIGURES/orbit_plot.eps}
+	\hspace*{-0.9cm}\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=0.85\textwidth]{FIGURES/orbit_plot.eps}
 \end{figure}
 \begin{itemize}
 	\vspace*{-0.5cm}
 \item Geometric integration: Not exact orbit shape.
-\item Axisymmetic (2D): Canonical toroidal angular momentum is preserved.
+\item Axisymmetic (2D): Canonical toroidal angular momentum is conserved.
 \end{itemize}
 \end{frame}
 
@@ -1078,7 +1107,7 @@ $\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order 
 \vspace{-0.4cm}
 %\hspace{-7cm}
 \begin{figure}
-	\hspace*{-1.05cm}\includegraphics[width=1.0\textwidth]{FIGURES/axissymetric_noise.eps}
+	\hspace*{-1.05cm}\includegraphics[trim={0cm 0cm 0cm 0cm},clip,width=1\textwidth]{FIGURES/axissymetric_noise.eps}
 \end{figure}
 \begin{itemize}
 	\vspace*{-0.6cm}
@@ -1167,25 +1196,25 @@ $\rightarrow$ $RK4$ corresponds to fourth order expansion, thus the fifth order 
 \section{Application: Mono-energetic radial transport coefficient}
 
 
-\begin{frame}
-\frametitle{Application: Mono-energetic radial transport coefficient}
-\vspace{-0.5cm}
-\begin{itemize}
-	\item Mono-energetic radial transport coefficient as a function of collisionality is evaluated with the Monte Carlo method.
-	\item Collisions are realized by pitch angle scattering (Lorentz scattering operator).\\
-	\be{}
-	\frac{\partial f}{\partial t} = \frac{1}{s \left(\psi \right)} \frac{\partial}{\partial \psi}s D 	\frac{\partial f}{\partial \psi} 
-	\ee
-	\be{}
-	D = D(E,\psi) = \langle \frac{1}{2t} \left( \psi  \left(t\right) - \psi \left( t_0 \right) \right)^2 \rangle
-	\ee
-\end{itemize}
-\end{frame}
+%\begin{frame}
+%\frametitle{Application: Mono-energetic radial transport coefficient}
+%\vspace{-0.5cm}
+%\begin{itemize}
+%	\item Mono-energetic radial transport coefficient as a function of collisionality is evaluated with the Monte Carlo method.
+%	\item Collisions are realized by pitch angle scattering (Lorentz scattering operator).\\
+%	\be{}
+%	\frac{\partial f}{\partial t} = \frac{1}{s \left(\psi \right)} \frac{\partial}{\partial \psi}s D 	\frac{\partial f}{\partial \psi} 
+%	\ee
+%	\be{}
+%	D = D(E,\psi) = \langle \frac{1}{2t} \left( \psi  \left(t\right) - \psi \left( t_0 \right) \right)^2 \rangle
+%	\ee
+%\end{itemize}
+%\end{frame}
 
 
 
 \begin{frame}
-\frametitle{Radial Transport in HYDRA (stellarator)}
+\frametitle{Radial Transport in a stellarator using MC}
 \vspace{-1.2cm}
 %\hspace{-7cm}
 \hspace*{0.1cm}
@@ -1220,9 +1249,10 @@ $E_{kin}=$ 3 keV, $s_0 = 0.6$
 %\textit{\textbf{Advantages:}}\\
 \begin{itemize}
 \item Physically correct long time orbit dynamics
-\item Particle coordinates and velocities are implicitly given at cell boundaries.
-\item Low sensitivity to noise in electromagnetic fields
+\item Particle coordinates and velocities are implicitly given at cell boundaries
 \item Computational efficiency
+\item Low sensitivity to noise in electromagnetic fields
+
 \end{itemize}
 %\textit{\textbf{Limitations:}}
 %\begin{itemize}
