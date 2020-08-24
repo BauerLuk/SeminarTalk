@@ -602,7 +602,6 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 \vspace{-1 cm}
 \begin{columns}[onlytextwidth]
 	\begin{column}{0.5\textwidth}
-	
 		\begin{center}
 			\begin{figure}
 				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/magnetic_field_labeled0.jpg}
@@ -743,6 +742,38 @@ Approximate $A_k, B_k/ \omega_c$, $\omega_c$ and $\Phi$ by linear functions in s
 	\end{column}
 \end{columns}
 \end{frame}
+
+\begin{frame}
+\frametitle{Construct conversion routine from \newline field line data}
+\vspace{0 cm}
+%\begin{columns}[onlytextwidth]
+%	\begin{column}{0.5\textwidth}
+%		\begin{center}
+%			\begin{figure}
+%				\includegraphics[trim={0 0cm 0 0cm},clip,width=1\textwidth]{FIGURES/}
+%				\caption{}
+%			\end{figure}
+%		\end{center}
+%	\end{column}
+%	\begin{column}{0.5\textwidth}
+		\vspace{-0.5 cm}
+		\begin{center}
+			\begin{itemize}
+				\item parametrize line segment from $O$-point to $X$-point
+				\item integrate field lines in equidistant steps for one poloidal turn				
+				\item save $(R,Z)$ data $\rightarrow s$ is constant, $\vartheta$ is equidistant
+				\item interpolate data for coordinate conversion
+							\begin{itemize}
+				\item periodic splines in $\vartheta$
+				\item lagrange polynomials in $s$
+			\end{itemize}
+			\end{itemize}
+		\end{center}
+%	\end{column}
+%\end{columns}
+\end{frame}
+
+
 
 %\begin{frame}
 %\frametitle{Massive computation of field lines}

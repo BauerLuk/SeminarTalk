@@ -5,7 +5,7 @@
 \beamer@sectionintoc {5}{Cylindrical contour grid}{18}{0}{5}
 \beamer@sectionintoc {6}{Symmetry flux coordinates}{22}{0}{6}
 \beamer@sectionintoc {7}{Field aligned grid}{24}{0}{7}
-\beamer@sectionintoc {8}{Numerical orbit calculation}{32}{0}{8}
-\beamer@sectionintoc {9}{Application: Mono-energetic radial transport coefficient}{40}{0}{9}
-\beamer@sectionintoc {10}{Conclusion}{41}{0}{10}
-\beamer@sectionintoc {11}{Conclusion}{42}{0}{11}
+\beamer@sectionintoc {8}{Numerical orbit calculation}{33}{0}{8}
+\beamer@sectionintoc {9}{Application: Mono-energetic radial transport coefficient}{41}{0}{9}
+\beamer@sectionintoc {10}{Conclusion}{42}{0}{10}
+\beamer@sectionintoc {11}{Conclusion}{43}{0}{11}
